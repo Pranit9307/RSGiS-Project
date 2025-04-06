@@ -322,34 +322,39 @@ def get_state_from_coordinates(latitude, longitude):
         st.warning(f"Could not determine state from coordinates: {str(e)}")
         return "Unknown"
 
-# Add map for location selection
-st.write("Select a location on the map to predict landslide probability:")
-
-# Create a map centered on India
-m = folium.Map(location=[20.5937, 78.9629], zoom_start=5, tiles='OpenStreetMap')
-
-# Add click event to map
-m.add_child(folium.LatLngPopup())
-
-# Display the map and get the clicked location
-map_data = st_folium(m, height=400, width=700)
-
-# Add input fields for coordinates
-st.write("Or enter coordinates manually:")
-col1, col2 = st.columns(2)
-
 # Initialize session state for coordinates if not exists
 if 'latitude' not in st.session_state:
     st.session_state.latitude = 20.5937
 if 'longitude' not in st.session_state:
     st.session_state.longitude = 78.9629
+if 'show_map' not in st.session_state:
+    st.session_state.show_map = True
 
-# Update coordinates if map was clicked
-if map_data and map_data.get('last_clicked'):
-    st.session_state.latitude = map_data['last_clicked']['lat']
-    st.session_state.longitude = map_data['last_clicked']['lng']
+# Create two columns for layout
+col1, col2 = st.columns([2, 1])
 
 with col1:
+    # Map section
+    st.write("Select a location on the map to predict landslide probability:")
+    
+    # Create a map centered on India
+    m = folium.Map(location=[20.5937, 78.9629], zoom_start=5, tiles='OpenStreetMap')
+    
+    # Add click event to map
+    m.add_child(folium.LatLngPopup())
+    
+    # Display the map and get the clicked location
+    map_data = st_folium(m, height=400, width=700)
+    
+    # Update coordinates if map was clicked
+    if map_data and map_data.get('last_clicked'):
+        st.session_state.latitude = map_data['last_clicked']['lat']
+        st.session_state.longitude = map_data['last_clicked']['lng']
+        st.session_state.show_map = True
+
+with col2:
+    # Manual coordinate input
+    st.write("Or enter coordinates manually:")
     latitude = st.number_input(
         "Latitude", 
         min_value=-90.0, 
@@ -359,7 +364,6 @@ with col1:
     )
     st.session_state.latitude = latitude
 
-with col2:
     longitude = st.number_input(
         "Longitude", 
         min_value=-180.0, 
@@ -369,76 +373,85 @@ with col2:
     )
     st.session_state.longitude = longitude
 
-# Update map center if manual coordinates were changed
-if (st.session_state.latitude != map_data.get('center', {}).get('lat', 20.5937) or 
-    st.session_state.longitude != map_data.get('center', {}).get('lng', 78.9629)):
-    m = folium.Map(
-        location=[st.session_state.latitude, st.session_state.longitude], 
-        zoom_start=5, 
-        tiles='OpenStreetMap'
-    )
-    folium.Marker(
-        [st.session_state.latitude, st.session_state.longitude],
-        popup=f"Selected Location: {st.session_state.latitude}, {st.session_state.longitude}"
-    ).add_to(m)
-    st_folium(m, height=400, width=700)
+    # Update map center if manual coordinates were changed
+    if (st.session_state.latitude != map_data.get('center', {}).get('lat', 20.5937) or 
+        st.session_state.longitude != map_data.get('center', {}).get('lng', 78.9629)):
+        st.session_state.show_map = True
 
+# Prediction button
 if st.button("Predict Landslide Risk"):
-    st.write(f"Selected Location: {latitude}, {longitude}")
+    st.session_state.show_map = True  # Ensure map stays visible
     
     # Get state from coordinates
     state = get_state_from_coordinates(latitude, longitude)
-    st.write(f"State: {state}")
     
-    with st.spinner("Fetching data and calculating risk..."):
-        # Fetch elevation and slope data using Google Earth Engine
-        elevation, slope = fetch_elevation_slope(latitude, longitude)
-        if elevation is not None and slope is not None:
-            st.write(f"Elevation: {elevation:.2f} meters")
-            st.write(f"Slope: {slope:.2f} degrees")
-        else:
-            st.error("Could not fetch terrain data")
-            elevation = 0
-            slope = 0
-
-        # Fetch climate data
-        climate_data = fetch_climate_data(
-            latitude, 
-            longitude, 
-            f"{year_range[0]}-01-01", 
-            f"{year_range[1]}-12-31"
-        )
-        
-        if climate_data is not None and not climate_data.empty:
-            # Calculate average climate values
-            avg_climate = {
-                "temperature_2m_mean": climate_data["temperature_2m_mean"].mean(),
-                "precipitation_sum": climate_data["precipitation_sum"].sum(),
-                "rain_sum": climate_data["rain_sum"].sum(),
-                "precipitation_hours": climate_data["precipitation_hours"].sum(),
-                "et0_fao_evapotranspiration": climate_data["et0_fao_evapotranspiration"].mean()
-            }
-
-            # Prepare data using the helper function
-            input_data = prepare_prediction_data(
-                latitude=latitude,
-                longitude=longitude,
-                elevation=elevation,
-                slope=slope,
-                temperature_mean=avg_climate["temperature_2m_mean"],
-                precipitation_sum=avg_climate["precipitation_sum"],
-                rain_sum=avg_climate["rain_sum"],
-                precipitation_hours=avg_climate["precipitation_hours"],
-                evapotranspiration=avg_climate["et0_fao_evapotranspiration"],
-                state=state
+    # Create expandable sections for results
+    with st.expander("Location Details", expanded=True):
+        st.write(f"Selected Location: {latitude}, {longitude}")
+        st.write(f"State: {state}")
+    
+    with st.expander("Terrain Data", expanded=True):
+        with st.spinner("Fetching terrain data..."):
+            elevation, slope = fetch_elevation_slope(latitude, longitude)
+            if elevation is not None and slope is not None:
+                st.write(f"Elevation: {elevation:.2f} meters")
+                st.write(f"Slope: {slope:.2f} degrees")
+            else:
+                st.error("Could not fetch terrain data")
+                elevation = 0
+                slope = 0
+    
+    with st.expander("Climate Data", expanded=True):
+        with st.spinner("Fetching climate data..."):
+            climate_data = fetch_climate_data(
+                latitude, 
+                longitude, 
+                f"{year_range[0]}-01-01", 
+                f"{year_range[1]}-12-31"
             )
+            
+            if climate_data is not None and not climate_data.empty:
+                # Calculate average climate values
+                avg_climate = {
+                    "temperature_2m_mean": climate_data["temperature_2m_mean"].mean(),
+                    "precipitation_sum": climate_data["precipitation_sum"].sum(),
+                    "rain_sum": climate_data["rain_sum"].sum(),
+                    "precipitation_hours": climate_data["precipitation_hours"].sum(),
+                    "et0_fao_evapotranspiration": climate_data["et0_fao_evapotranspiration"].mean()
+                }
 
-            # Make prediction using the model
+                # Display climate data in a more organized way
+                st.write("### Climate Data Summary")
+                col1, col2 = st.columns(2)
+                with col1:
+                    st.metric("Average Temperature", f"{avg_climate['temperature_2m_mean']:.2f}°C")
+                    st.metric("Total Precipitation", f"{avg_climate['precipitation_sum']:.2f} mm")
+                with col2:
+                    st.metric("Total Rain", f"{avg_climate['rain_sum']:.2f} mm")
+                    st.metric("Precipitation Hours", f"{avg_climate['precipitation_hours']:.0f}")
+            else:
+                st.error("Could not fetch climate data for the selected location")
+
+    # Risk prediction section
+    if climate_data is not None and not climate_data.empty:
+        with st.expander("Risk Prediction", expanded=True):
             try:
-                # Get probability predictions for each class
+                # Prepare data using the helper function
+                input_data = prepare_prediction_data(
+                    latitude=latitude,
+                    longitude=longitude,
+                    elevation=elevation,
+                    slope=slope,
+                    temperature_mean=avg_climate["temperature_2m_mean"],
+                    precipitation_sum=avg_climate["precipitation_sum"],
+                    rain_sum=avg_climate["rain_sum"],
+                    precipitation_hours=avg_climate["precipitation_hours"],
+                    evapotranspiration=avg_climate["et0_fao_evapotranspiration"],
+                    state=state
+                )
+
+                # Make prediction using the model
                 probabilities = model.predict_proba(input_data)[0]
-                
-                # Get the predicted class
                 predicted_class = model.predict(input_data)[0]
                 predicted_risk = target_encoder.inverse_transform([predicted_class])[0]
                 
@@ -471,5 +484,3 @@ if st.button("Predict Landslide Risk"):
             except Exception as e:
                 st.error(f"Error making prediction: {str(e)}")
                 st.error("Please check if all required features are present and in the correct order.")
-        else:
-            st.error("Could not fetch climate data for the selected location")
