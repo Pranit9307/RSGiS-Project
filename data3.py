@@ -16,7 +16,7 @@ def fetch_climate_data(lat, lon, date, max_retries=3, wait_time=2):
         "daily": "temperature_2m_mean,precipitation_sum,rain_sum,precipitation_hours,et0_fao_evapotranspiration",
         "timezone": "Asia/Kolkata"
     }
-    
+
     for attempt in range(max_retries):
         try:
             response = requests.get(base_url, params=params, timeout=10)
@@ -30,7 +30,7 @@ def fetch_climate_data(lat, lon, date, max_retries=3, wait_time=2):
                 rain_sum = daily.get("rain_sum", [None])[0]
                 precipitation_hours = daily.get("precipitation_hours", [None])[0]
                 et0 = daily.get("et0_fao_evapotranspiration", [None])[0]
-                
+
                 return {
                     "temperature_2m_mean": temperature_2m_mean,
                     "precipitation_sum": precipitation_sum,
