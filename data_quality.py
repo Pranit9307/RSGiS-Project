@@ -40,7 +40,7 @@ if model is not None:
     @st.cache_data
     def load_historical_data():
         try:
-            df = pd.read_csv("climate data manual.csv")
+            df = pd.read_csv("output\climate_terrain_data2.csv")
             df['date'] = pd.to_datetime(df['date'], format='%d-%m-%Y')
             return df
         except Exception as e:

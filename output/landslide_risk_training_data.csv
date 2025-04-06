@@ -1,0 +1,1742 @@
+date,latitude,longitude,country_name,admin_division_name,risk_class
+,25.67836832,91.9234343,india,Meghalaya,High
+,34.38667467,76.34149163999999,india,Jammu and Kashmir,Low
+,26.1965,91.763,india,Assam,High
+,23.4495,92.81120000000001,india,Mizoram,High
+,34.1416,77.4871,india,Jammu and Kashmir,Low
+,32.9262,75.1447,india,Jammu and Kashmir,Low
+,27.0765,88.4808,india,West Bengal,High
+,19.16260832,73.68550038,india,Maharashtra,Medium
+,30.7198,77.1695,india,Himachal Pradesh,High
+,26.1309,91.8383,india,Assam,High
+,33.7732,74.1011,india,Jammu and Kashmir,High
+,31.5596,77.1679,india,Himachal Pradesh,High
+,27.0076,88.251,india,West Bengal,Low
+,30.61461423,78.3157525,india,Uttaranchal,High
+,19.3421,73.7735,india,Maharashtra,Medium
+,10.3184,77.52769999999998,india,Tamil Nadu,Low
+,12.8733,74.8481,india,Karnataka,Medium
+,23.741826340000003,92.7141905,india,Mizoram,Medium
+,33.1804,75.8101,india,Jammu and Kashmir,Medium
+,30.9035,77.0965,india,Himachal Pradesh,Medium
+,9.8232,77.1498,india,Kerala,Low
+,25.0951,92.3567,india,Meghalaya,Low
+,25.4551,84.5322,india,Bihar,Medium
+,24.5958,72.71689999999998,india,Rajasthan,Medium
+,31.944,77.1179,india,Himachal Pradesh,Low
+,33.25426998,75.20536698999999,india,Jammu and Kashmir,Low
+,31.77315744,77.30471356999999,india,Himachal Pradesh,Low
+,30.1176,78.7472,india,Uttaranchal,High
+,25.632035700000003,94.10065403,india,Nagaland,High
+,31.49911602,78.22419099000001,india,Himachal Pradesh,High
+,21.556137,85.70071224999998,india,Orissa,Medium
+,10.57211238,76.38600783999999,india,Kerala,High
+,26.84850975,88.26181744999998,india,West Bengal,Medium
+,33.1754,75.8103,india,Jammu and Kashmir,Medium
+,33.13498724,75.54505215999998,india,Jammu and Kashmir,High
+,10.26805833,76.34859138,india,Kerala,Medium
+,19.1355,72.99809999999998,india,Maharashtra,High
+,33.36011691,75.17291043999998,india,Jammu and Kashmir,High
+,26.1699,94.4922,india,Nagaland,Low
+,30.7331,79.0685,india,Uttaranchal,High
+,26.1868,91.6739,india,Assam,Low
+,31.5986,78.4384,india,Himachal Pradesh,High
+,15.6365,74.11579999999998,india,Goa,High
+,27.3702,88.7334,india,Sikkim,Low
+,28.3036,95.4112,india,Arunachal Pradesh,Low
+,27.0366,88.263,india,West Bengal,High
+,33.30044087,75.18163117,india,Jammu and Kashmir,Medium
+,33.1292173,75.44618905999998,india,Jammu and Kashmir,Low
+,25.658708,94.098536,india,Nagaland,Medium
+,15.6019,73.80929999999998,india,Goa,Medium
+,28.9205,95.3429,india,Arunachal Pradesh,Medium
+,25.03190213,92.42257695,india,Meghalaya,Low
+,25.5084,90.2191,india,Meghalaya,Medium
+,32.7029,75.9568,india,Himachal Pradesh,Low
+,26.8073,88.31619999999998,india,West Bengal,Medium
+,24.02515388,91.49747518,india,Tripura,High
+,30.365,78.06409999999998,india,Uttaranchal,High
+,33.3645,75.1999,india,Jammu and Kashmir,Low
+,12.41394132,75.71901706,india,Karnataka,High
+,11.249634339999998,75.92024529999999,india,Kerala,High
+,27.0771,88.482,india,West Bengal,Medium
+,25.67061161,94.11844319,india,Nagaland,Low
+,30.7059,76.98439999999998,india,Haryana,Medium
+,33.1595,75.8011,india,Jammu and Kashmir,Medium
+,32.9918,75.1945,india,Jammu and Kashmir,Medium
+,25.4243,88.2746,india,West Bengal,Medium
+,23.73941422,92.71505961,india,Mizoram,Medium
+,10.8319,78.70749999999998,india,Tamil Nadu,Medium
+,32.6598,76.85299999999998,india,Himachal Pradesh,Medium
+,27.163,94.0,india,Assam,Low
+,25.5265,93.8673,india,Manipur,High
+,33.1488,75.5526,india,Jammu and Kashmir,Medium
+,33.2359,75.244,india,Jammu and Kashmir,Medium
+,11.328578,76.903045,india,Tamil Nadu,Medium
+,34.1601,75.49599999999998,india,Jammu and Kashmir,Medium
+,30.8754355,77.00009328999998,india,Himachal Pradesh,Medium
+,32.2239,76.32259999999998,india,Himachal Pradesh,Medium
+,15.3739,73.89109999999998,india,Goa,High
+,27.2298,94.0989,india,Assam,High
+,27.5754,91.9754,india,Arunachal Pradesh,Medium
+,30.7384152,76.98640068999998,india,Haryana,High
+,11.3192,76.5959,india,Tamil Nadu,Low
+,27.360364,88.65191399999999,india,Sikkim,Medium
+,10.32303994,76.46715889,india,Kerala,Low
+,31.8028,76.757,india,Himachal Pradesh,Low
+,25.5215,93.1645,india,Assam,Medium
+,29.913,79.3532,india,Uttaranchal,High
+,12.79630729,75.59507472,india,Karnataka,Low
+,14.9935,74.04779999999998,india,Goa,Medium
+,30.75402442,79.49970188999998,india,Uttaranchal,Low
+,24.9829,93.5063,india,Manipur,Low
+,24.6005,92.38140000000001,india,Assam,Low
+,27.125,93.7145,india,Arunachal Pradesh,Low
+,10.9628,77.5947,india,Tamil Nadu,High
+,25.3098633,94.48214677,india,Manipur,Low
+,24.7339,93.9161,india,Manipur,Low
+,27.54043014,88.49888235999998,india,Sikkim,Low
+,25.7354,90.3852,india,Meghalaya,High
+,11.547393,75.891248,india,Kerala,Low
+,25.2269,93.1658,india,Assam,Low
+,23.75406693,92.74128531000001,india,Mizoram,High
+,26.8861,88.1704,india,West Bengal,High
+,24.8669,92.3576,india,Assam,High
+,25.7055,94.0132,india,Nagaland,Low
+,34.0796,74.0357,india,Jammu and Kashmir,High
+,31.11294766,77.61442829,india,Himachal Pradesh,High
+,31.1003,77.1751,india,Himachal Pradesh,Low
+,34.27703802,75.46743477999999,india,Jammu and Kashmir,High
+,30.995694,78.93631399999998,india,Uttaranchal,Low
+,33.2216593,75.26926793,india,Jammu and Kashmir,Medium
+,29.83416882,80.26894533,india,Uttaranchal,High
+,17.414895,78.43375799999998,india,Telangana,Medium
+,31.71456806,77.02239366,india,Himachal Pradesh,Low
+,26.9722,88.44809999999998,india,West Bengal,High
+,31.0343,78.7248,india,Uttaranchal,Low
+,33.371973139999994,75.19440188999998,india,Jammu and Kashmir,Medium
+,30.7866,78.61709999999998,india,Uttaranchal,Low
+,33.854839809999994,74.76317442999998,india,Jammu and Kashmir,High
+,25.5718,94.1211,india,Manipur,High
+,30.070512,80.237218,india,Uttaranchal,Medium
+,30.73,78.43779999999998,india,Uttaranchal,Low
+,27.02149311,88.25902123,india,West Bengal,High
+,10.0533,76.4788,india,Kerala,Medium
+,23.7348,92.7187,india,Mizoram,High
+,24.768609,92.821182,india,Assam,High
+,15.5935,73.94339999999998,india,Goa,Low
+,11.41001301,76.24145817999998,india,Kerala,High
+,16.6252,80.61279999999998,india,Andhra Pradesh,Low
+,23.7327,92.7463,india,Mizoram,High
+,33.144018,75.54563999999998,india,Jammu and Kashmir,Medium
+,11.329547,76.801586,india,Tamil Nadu,High
+,32.3665,77.0857,india,Himachal Pradesh,Low
+,15.4838,73.8164,india,Goa,Low
+,34.2601,75.4466,india,Jammu and Kashmir,Medium
+,30.7292,78.4396,india,Uttaranchal,High
+,24.75,93.4333,india,Manipur,High
+,12.8806,75.0327,india,Karnataka,Medium
+,14.42827957,74.41606625,india,Karnataka,High
+,11.2695,76.2227,india,Kerala,High
+,33.5808,74.90349999999998,india,Jammu and Kashmir,Low
+,31.1054,77.1727,india,Himachal Pradesh,High
+,11.81,78.2253,india,Tamil Nadu,High
+,33.63251807,75.23162005999998,india,Jammu and Kashmir,Medium
+,11.3484,76.7937,india,Tamil Nadu,Medium
+,27.1344,88.45749999999998,india,Sikkim,Low
+,27.3765,88.7628,india,Sikkim,High
+,11.2529052,75.78662828,india,Kerala,High
+,30.262,79.21909999999998,india,Uttaranchal,High
+,31.9671,76.8521,india,Himachal Pradesh,Low
+,9.5527,76.9299,india,Kerala,Low
+,34.40393623,74.26149296,india,Jammu and Kashmir,Medium
+,24.2315,92.6755,india,Mizoram,Low
+,30.2733,79.233,india,Uttaranchal,High
+,27.1176,88.10689999999998,india,West Bengal,High
+,30.4238,79.67239999999998,india,Uttaranchal,Low
+,30.81507336,78.2242533,india,Uttaranchal,High
+,11.2993,76.9354,india,Tamil Nadu,High
+,27.4,92.35,india,Arunachal Pradesh,Low
+,25.0604,93.9877,india,Manipur,Low
+,26.49349035,91.72137514,india,Assam,High
+,24.7992,93.948,india,Manipur,High
+,27.14163897,93.66495709,india,Arunachal Pradesh,High
+,8.25053724,77.26519094000001,india,Tamil Nadu,Medium
+,14.7395,74.2566,india,Karnataka,Medium
+,33.4341,75.1923,india,Jammu and Kashmir,Medium
+,30.89221723,77.09003076,india,Himachal Pradesh,Low
+,30.1665,78.1123,india,Uttaranchal,Medium
+,34.5382,74.2493,india,Jammu and Kashmir,Low
+,27.2872,88.28159999999998,india,Sikkim,Low
+,26.1498,94.6055,india,Nagaland,Medium
+,33.0977,75.5787,india,Jammu and Kashmir,Medium
+,32.3491,77.2181,india,Himachal Pradesh,Medium
+,33.24788762,75.21401709,india,Jammu and Kashmir,High
+,27.1034,93.6885,india,Arunachal Pradesh,Medium
+,33.0107,74.9397,india,Jammu and Kashmir,High
+,30.4,79.349,india,Uttaranchal,Low
+,30.6494,79.5269,india,Uttaranchal,High
+,33.9344,74.65659999999998,india,Jammu and Kashmir,Medium
+,27.1141,88.4658,india,Sikkim,Low
+,34.0942,74.02259999999998,india,Jammu and Kashmir,Low
+,26.8712,88.3052,india,West Bengal,Low
+,9.8012,76.90059999999998,india,Kerala,High
+,15.5063,73.8362,india,Goa,Medium
+,25.8266,94.1497,india,Nagaland,Low
+,24.3481,94.1146,india,Manipur,Low
+,32.26186432,78.0685005,india,Himachal Pradesh,Low
+,27.0875,88.4572,india,West Bengal,High
+,33.38281992,75.20064617,india,Jammu and Kashmir,High
+,30.5728,77.6521,india,Himachal Pradesh,Medium
+,28.4298,95.8776,india,Arunachal Pradesh,High
+,25.67295037,94.10513916999999,india,Nagaland,Low
+,10.0545,78.02979999999998,india,Tamil Nadu,Medium
+,33.264400460000005,75.18641667,india,Jammu and Kashmir,Low
+,31.1263,77.3525,india,Himachal Pradesh,Low
+,19.3379,73.7767,india,Maharashtra,High
+,10.05487169,77.03736623999998,india,Kerala,Medium
+,25.1555,93.8474,india,Manipur,High
+,19.6241,72.9084,india,Maharashtra,High
+,31.2077,77.193,india,Himachal Pradesh,Medium
+,27.1614,93.7525,india,Arunachal Pradesh,Low
+,24.3527,94.3429,india,Manipur,Low
+,14.7822,74.2279,india,Karnataka,Medium
+,33.17598419,75.81088889,india,Jammu and Kashmir,Low
+,19.1008,84.0502,india,Orissa,Medium
+,34.219,77.26649999999998,india,Jammu and Kashmir,Medium
+,9.76821399,77.10872714999998,india,Kerala,High
+,9.22979437,76.85092557999998,india,Kerala,Medium
+,19.5178,83.18089999999998,india,Orissa,High
+,25.52,91.27,india,Meghalaya,Low
+,33.0365,74.4889,india,Jammu and Kashmir,Low
+,24.2451,94.0691,india,Manipur,Low
+,24.1077,94.0396,india,Manipur,Low
+,26.1771,91.7599,india,Assam,High
+,32.9522,75.1533,india,Jammu and Kashmir,Low
+,9.9903,76.7898,india,Kerala,Medium
+,24.7505,93.4221,india,Manipur,Medium
+,18.7833,73.47029999999998,india,Maharashtra,Medium
+,19.0263,72.86759999999998,india,Maharashtra,High
+,34.08325186,74.84254061,india,Jammu and Kashmir,Low
+,34.1114,77.5874,india,Jammu and Kashmir,Low
+,28.1193,95.1645,india,Arunachal Pradesh,Low
+,26.1964,91.7652,india,Assam,High
+,26.7225,95.0281,india,Nagaland,Medium
+,26.8727,94.9275,india,Nagaland,Medium
+,26.95147008,93.86686394,india,Assam,Low
+,23.40991836,93.36421745,india,Mizoram,Medium
+,16.5172,80.6024,india,Andhra Pradesh,Medium
+,26.4333,94.8833,india,Nagaland,High
+,25.6263,94.10570000000001,india,Nagaland,High
+,31.5168,78.0976,india,Himachal Pradesh,High
+,26.882115220000003,88.3195318,india,West Bengal,High
+,30.3797,78.5017,india,Uttaranchal,Low
+,31.587,78.315,india,Himachal Pradesh,High
+,30.3214,78.03189999999998,india,Uttaranchal,Medium
+,16.94054188,73.46485294,india,Maharashtra,Low
+,32.351,77.2234,india,Himachal Pradesh,Medium
+,31.1066,77.209,india,Himachal Pradesh,Medium
+,11.86932069,75.90546189,india,Kerala,Medium
+,27.3736,88.73229999999998,india,Sikkim,High
+,32.99132221,75.19427899,india,Jammu and Kashmir,High
+,9.65498419,76.72308237999998,india,Kerala,Low
+,30.5319,79.3541,india,Uttaranchal,Low
+,29.2409,95.9761,india,Arunachal Pradesh,High
+,13.1819,76.1147,india,Karnataka,Medium
+,32.2322,76.3037,india,Himachal Pradesh,Low
+,27.8997,93.34970000000001,india,Arunachal Pradesh,High
+,32.5612,76.1238,india,Himachal Pradesh,High
+,27.02459801,88.43849550999998,india,West Bengal,High
+,33.3191592,75.19329838,india,Jammu and Kashmir,Medium
+,10.53762479,76.21576213,india,Kerala,High
+,29.3802,79.4633,india,Uttaranchal,High
+,13.92958382,75.60098320999998,india,Karnataka,High
+,30.709,76.9834,india,Haryana,High
+,24.21988831,93.20266204,india,Manipur,Low
+,33.17191499,75.81074366,india,Jammu and Kashmir,Low
+,33.25646771,75.77361313,india,Jammu and Kashmir,High
+,25.907233,91.881892,india,Meghalaya,Medium
+,25.7902,94.1318,india,Nagaland,Low
+,12.41958869,75.70384332,india,Karnataka,High
+,13.6529,79.3439,india,Andhra Pradesh,Low
+,14.229,74.8122,india,Karnataka,Low
+,9.82689429,76.92110479,india,Kerala,Medium
+,23.7269,92.7265,india,Mizoram,High
+,9.7285,76.80299999999998,india,Kerala,High
+,32.5659,75.09439999999998,india,Jammu and Kashmir,Medium
+,23.9278,94.0906,india,Manipur,Medium
+,30.1035,78.4265,india,Uttaranchal,High
+,25.5007,93.9854,india,Manipur,High
+,31.11743075,77.5745521,india,Himachal Pradesh,Medium
+,33.40307977,75.68061125,india,Jammu and Kashmir,Low
+,18.83564731,83.23165344999998,india,Orissa,Low
+,33.3308,75.1774,india,Jammu and Kashmir,Medium
+,31.673,76.5338,india,Himachal Pradesh,Low
+,10.02195311,76.94077696,india,Kerala,Medium
+,31.0563269,77.13685017999998,india,Himachal Pradesh,Low
+,24.9111,94.4759,india,Manipur,Low
+,13.90074546,74.66018578,india,Karnataka,High
+,27.1675,88.3651,india,Sikkim,High
+,26.9978,88.167,india,West Bengal,Low
+,23.5397,93.3783,india,Mizoram,Low
+,18.7631,73.3471,india,Maharashtra,High
+,25.5006,90.0896,india,Meghalaya,High
+,26.0977,94.7499,india,Nagaland,High
+,24.4638,92.4943,india,Assam,Medium
+,30.9111,78.68139999999998,india,Uttaranchal,Low
+,27.5799,91.8569,india,Arunachal Pradesh,High
+,32.7327,74.85559999999998,india,Jammu and Kashmir,Low
+,28.611,94.9829,india,Arunachal Pradesh,Medium
+,31.01260519,78.88449525,india,Uttaranchal,Medium
+,11.3237,76.9101,india,Tamil Nadu,High
+,33.0271,75.0018,india,Jammu and Kashmir,Medium
+,18.72,73.47,india,Maharashtra,Low
+,24.79591421,93.72386429,india,Manipur,High
+,12.6771,75.2565,india,Karnataka,Low
+,30.9015,78.77559999999998,india,Uttaranchal,Low
+,26.8781,88.28069999999998,india,West Bengal,Medium
+,33.17580726,75.81055668,india,Jammu and Kashmir,Medium
+,22.479,92.96700000000001,india,Mizoram,Medium
+,33.1847,75.8062,india,Jammu and Kashmir,Medium
+,31.102451,77.20458599999998,india,Himachal Pradesh,Medium
+,15.4014,73.82769999999998,india,Goa,High
+,26.1445447,94.24416766,india,Nagaland,Low
+,27.059,88.46939999999998,india,West Bengal,Low
+,26.8546,88.3373,india,West Bengal,Low
+,10.9654,76.55159999999998,india,Kerala,Low
+,26.0838,94.564,india,Nagaland,Medium
+,29.7036,78.56579999999998,india,Uttaranchal,Low
+,24.8029,93.6228,india,Manipur,High
+,30.5631,79.57649999999998,india,Uttaranchal,High
+,31.5041,77.9521,india,Himachal Pradesh,Low
+,26.944,88.4441,india,West Bengal,Low
+,26.99195749,88.42280920999998,india,West Bengal,High
+,24.5308,92.5121,india,Assam,High
+,30.56504675,79.56163207999998,india,Uttaranchal,Medium
+,27.3425,88.62359999999998,india,Sikkim,High
+,31.0188,78.41289999999998,india,Uttaranchal,Medium
+,24.9926,93.4946,india,Manipur,Medium
+,31.5593,77.9277,india,Himachal Pradesh,Medium
+,30.7332,78.4401,india,Uttaranchal,Medium
+,30.885,78.6695,india,Uttaranchal,Medium
+,27.36,93.03850000000001,india,Arunachal Pradesh,Low
+,26.8692,88.46949999999998,india,West Bengal,High
+,15.0296,74.0253,india,Goa,Medium
+,25.583,91.893,india,Meghalaya,High
+,30.74148939,78.52656313999998,india,Uttaranchal,High
+,24.9356,93.8443,india,Manipur,Medium
+,29.9121,78.1723,india,Uttaranchal,Low
+,26.888,88.2796,india,West Bengal,Medium
+,30.7351,79.06659999999998,india,Uttaranchal,Low
+,11.78127207,78.19387994999998,india,Tamil Nadu,High
+,12.89674168,74.85970453,india,Karnataka,Low
+,19.34,73.7746,india,Maharashtra,Low
+,34.151,74.1213,india,Jammu and Kashmir,Low
+,11.34392645,76.85792558,india,Tamil Nadu,High
+,9.980976,77.000961,india,Kerala,High
+,33.25717564,75.19682010999999,india,Jammu and Kashmir,Low
+,23.86469956,91.8949662,india,Tripura,Low
+,27.1249,93.7706,india,Arunachal Pradesh,Medium
+,18.5158,73.18219999999998,india,Maharashtra,Low
+,26.1985,91.7998,india,Assam,Medium
+,25.63961883,94.11112157,india,Nagaland,Low
+,26.4205,94.9731,india,Nagaland,Medium
+,30.6509,79.02639999999998,india,Uttaranchal,High
+,27.0167,78.1333,india,Uttar Pradesh,Low
+,27.2644,88.1365,india,Sikkim,Low
+,12.82259873,75.62136484,india,Karnataka,Low
+,34.141,74.6568,india,Jammu and Kashmir,Low
+,25.0985,94.3619,india,Manipur,Medium
+,24.416,94.0984,india,Manipur,Low
+,26.1666,91.7042,india,Assam,High
+,31.1581,77.7155,india,Himachal Pradesh,High
+,32.371,77.24679999999998,india,Himachal Pradesh,Low
+,33.25400876,75.01405986999998,india,Jammu and Kashmir,High
+,32.4318,77.21469999999998,india,Himachal Pradesh,Low
+,23.6866,93.017,india,Mizoram,Low
+,34.09,74.02559999999998,india,Jammu and Kashmir,High
+,30.4068,79.33509999999998,india,Uttaranchal,Low
+,27.174,95.8011,india,Arunachal Pradesh,High
+,27.092916,93.61882043,india,Arunachal Pradesh,Medium
+,26.16066111,91.85294885,india,Assam,Low
+,12.4869813,75.74569635999998,india,Karnataka,Medium
+,28.1737,94.7596,india,Arunachal Pradesh,High
+,25.7658,93.9413,india,Nagaland,Medium
+,10.2445,77.5146,india,Tamil Nadu,Medium
+,24.6596,93.9784,india,Manipur,High
+,10.39189518,77.00003782,india,Tamil Nadu,Medium
+,30.72203108,78.44517324999998,india,Uttaranchal,Medium
+,30.2414,78.908,india,Uttaranchal,High
+,10.3228,76.4319,india,Kerala,Medium
+,23.591,92.9296,india,Mizoram,High
+,27.01145644,92.64204045,india,Arunachal Pradesh,Medium
+,31.5494,76.90009999999998,india,Himachal Pradesh,High
+,24.0406,84.06959999999998,india,Jharkhand,High
+,32.2067,76.36409999999998,india,Himachal Pradesh,Medium
+,24.3069,93.125,india,Manipur,Medium
+,27.167,88.3652,india,Sikkim,Medium
+,30.6935,77.42659999999998,india,Himachal Pradesh,Low
+,27.0599,88.4674,india,West Bengal,Low
+,11.64235289,78.13176899,india,Tamil Nadu,Low
+,33.3893,75.203,india,Jammu and Kashmir,High
+,33.3343,75.1969,india,Jammu and Kashmir,Medium
+,25.43807422,91.79904872,india,Meghalaya,High
+,27.1027,88.12179999999998,india,West Bengal,Low
+,27.2084,88.49089999999998,india,Sikkim,Medium
+,11.16100669,76.12754726999998,india,Kerala,High
+,25.06466676,94.27420555,india,Manipur,Medium
+,13.07696939,77.60271045,india,Karnataka,High
+,33.9445,74.799,india,Jammu and Kashmir,Medium
+,10.0486,76.76059999999998,india,Kerala,Low
+,33.0829,74.83329999999998,india,Jammu and Kashmir,Low
+,25.6623,94.1072,india,Nagaland,Medium
+,27.0998,93.6287,india,Arunachal Pradesh,High
+,33.2361,75.2441,india,Jammu and Kashmir,Low
+,18.3297,82.9565,india,Andhra Pradesh,Low
+,31.7756,76.9876,india,Himachal Pradesh,Low
+,34.6113,74.9499,india,Jammu and Kashmir,Medium
+,31.76419233,77.29184098,india,Himachal Pradesh,Medium
+,24.5202,92.7239,india,Assam,High
+,30.7467,78.4517,india,Uttaranchal,High
+,23.73672831,92.7516868,india,Mizoram,High
+,32.3071683,77.60234008,india,Himachal Pradesh,Medium
+,25.5144,90.2167,india,Meghalaya,Medium
+,30.89560904,77.00451278999998,india,Himachal Pradesh,High
+,16.5332,80.61029999999998,india,Andhra Pradesh,High
+,25.533595,94.133345,india,Manipur,Medium
+,33.2609,75.244,india,Jammu and Kashmir,High
+,32.1797,77.19469999999998,india,Himachal Pradesh,Low
+,32.18685848,77.17659767,india,Himachal Pradesh,Medium
+,30.6004,78.31539999999998,india,Uttaranchal,High
+,22.148327,92.80921064,india,Mizoram,Medium
+,33.635888490000006,74.51370901,india,Jammu and Kashmir,Low
+,27.337,88.60899999999998,india,Sikkim,Medium
+,16.5157,80.6525,india,Andhra Pradesh,Medium
+,30.9009,77.4668,india,Himachal Pradesh,Medium
+,30.2411,78.90139999999998,india,Uttaranchal,Medium
+,31.4582,78.2114,india,Himachal Pradesh,Low
+,19.3805,84.5699,india,Orissa,Medium
+,31.0164,77.0991,india,Himachal Pradesh,Medium
+,34.6651,73.961,india,Jammu and Kashmir,High
+,31.69137979,77.13222306,india,Himachal Pradesh,Medium
+,30.6463,79.5306,india,Uttaranchal,High
+,33.4431,75.1915,india,Jammu and Kashmir,Low
+,30.4326,78.0767,india,Uttaranchal,Low
+,31.09907494,77.1723589,india,Himachal Pradesh,Low
+,24.30415689,93.18182448,india,Manipur,Low
+,31.7083,76.9316,india,Himachal Pradesh,High
+,31.1032,77.16249999999998,india,Himachal Pradesh,Medium
+,17.8975,73.29609999999998,india,Maharashtra,Low
+,26.3897,94.94390000000001,india,Nagaland,Medium
+,27.06992579,93.6146564,india,Arunachal Pradesh,High
+,11.4991,76.4949,india,Tamil Nadu,High
+,11.84413018,76.08364903,india,Kerala,High
+,25.1604,93.6795,india,Manipur,Low
+,26.22247247,91.92053028,india,Assam,Medium
+,32.9295,75.14319999999998,india,Jammu and Kashmir,Medium
+,23.7313,92.7187,india,Mizoram,Medium
+,26.8096,88.52599999999998,india,West Bengal,High
+,19.2677,73.0618,india,Maharashtra,Low
+,26.284,94.5808,india,Nagaland,High
+,29.3841749,79.46310565999998,india,Uttaranchal,High
+,21.6989,74.17199999999998,india,Maharashtra,Medium
+,11.28965,76.94171,india,Tamil Nadu,High
+,27.2676,88.2891,india,Sikkim,Medium
+,27.0165,88.2476,india,West Bengal,Low
+,26.9599,88.268,india,West Bengal,Medium
+,24.0896,91.4663,india,Tripura,Low
+,32.4035,77.5796,india,Himachal Pradesh,Medium
+,25.7131,94.0885,india,Nagaland,High
+,11.7095,76.074,india,Kerala,High
+,27.5862,80.1306,india,Uttar Pradesh,Low
+,25.0728,92.3636,india,Meghalaya,Low
+,24.042,92.6724,india,Mizoram,Low
+,25.8376,94.5234,india,Nagaland,Medium
+,33.1517,75.5464,india,Jammu and Kashmir,Medium
+,25.08303063,94.23757741,india,Manipur,Low
+,32.0987,77.1495,india,Himachal Pradesh,High
+,33.7403,77.75589999999998,india,Jammu and Kashmir,Medium
+,32.36079826,77.23083056,india,Himachal Pradesh,Medium
+,27.7565,88.632,india,Sikkim,Medium
+,22.1337,78.8979,india,Madhya Pradesh,Low
+,26.8867642,88.28044714,india,West Bengal,Low
+,28.4659,95.86000000000001,india,Arunachal Pradesh,Low
+,9.49739318,76.86963750000001,india,Kerala,Low
+,16.5145,80.6526,india,Andhra Pradesh,Low
+,15.4123,74.2664,india,Goa,High
+,25.6682,94.1099,india,Nagaland,High
+,31.34335179,76.76200670999998,india,Himachal Pradesh,Low
+,31.7766,76.98319999999998,india,Himachal Pradesh,Medium
+,31.70779,76.932771,india,Himachal Pradesh,Low
+,30.2485,78.88469999999998,india,Uttaranchal,High
+,18.241,73.4469,india,Maharashtra,High
+,33.013463689999995,74.93530188999999,india,Jammu and Kashmir,Medium
+,10.4497,77.5206,india,Tamil Nadu,High
+,27.0869,93.6086,india,Arunachal Pradesh,Low
+,25.14429782,93.97198129,india,Manipur,Medium
+,33.03222222,75.90944444,india,Jammu and Kashmir,Low
+,25.1775,93.0123,india,Assam,Low
+,30.4605,79.4774,india,Uttaranchal,Medium
+,17.46562972,78.35650523999999,india,Telangana,Low
+,32.1896,77.187,india,Himachal Pradesh,High
+,29.6095,79.6628,india,Uttaranchal,Low
+,30.301,79.36279999999998,india,Uttaranchal,Medium
+,11.96697752,75.80869049999998,india,Kerala,Medium
+,32.22681803,76.32377459,india,Himachal Pradesh,Medium
+,32.9913,75.1915,india,Jammu and Kashmir,Low
+,19.641991,82.354055,india,Orissa,Medium
+,29.3376357,79.48354487,india,Uttaranchal,Medium
+,8.55866825,76.89785918,india,Kerala,Low
+,30.6358,77.54349999999998,india,Himachal Pradesh,High
+,32.8363,75.1489,india,Jammu and Kashmir,Low
+,15.41602484,75.61670443,india,Karnataka,Medium
+,34.4002,74.27979999999998,india,Jammu and Kashmir,Medium
+,25.4191,94.1079,india,Manipur,Low
+,9.8988,76.39019999999998,india,Kerala,High
+,22.479713,77.970495,india,Madhya Pradesh,Medium
+,12.9752,77.6092,india,Karnataka,Medium
+,26.4205,94.9731,india,Nagaland,Medium
+,19.336,73.7793,india,Maharashtra,Low
+,25.72,94.6219,india,Nagaland,Medium
+,25.4196,94.1054,india,Manipur,High
+,8.4951,76.921,india,Kerala,Medium
+,31.7018,76.9424,india,Himachal Pradesh,Medium
+,27.0095,88.2592,india,West Bengal,High
+,32.62803,75.37122999999998,india,Jammu and Kashmir,Medium
+,30.7394,78.5306,india,Uttaranchal,Low
+,33.7706,74.0967,india,Jammu and Kashmir,Low
+,12.89163444,74.88548779,india,Karnataka,Low
+,27.0087,88.443,india,West Bengal,High
+,15.3826,73.9239,india,Goa,Medium
+,16.5676,73.66079999999998,india,Maharashtra,Low
+,24.808,93.117,india,Assam,High
+,31.9906,76.7907,india,Himachal Pradesh,Medium
+,26.8716,94.9921,india,Nagaland,High
+,27.8835,96.9262,india,Arunachal Pradesh,Low
+,31.3237,76.7622,india,Himachal Pradesh,Low
+,26.88161,95.399897,india,Arunachal Pradesh,Low
+,27.71646253,88.55668312999998,india,Sikkim,High
+,31.5124,78.1181,india,Himachal Pradesh,High
+,33.7705,74.0967,india,Jammu and Kashmir,Low
+,23.7705,92.5217,india,Mizoram,High
+,33.9639,74.9597,india,Jammu and Kashmir,Low
+,27.1761,88.5287,india,Sikkim,Low
+,26.1662,91.7138,india,Assam,Medium
+,27.15977181,88.63411245999998,india,West Bengal,High
+,19.316,83.2414,india,Orissa,Low
+,26.2753,94.6654,india,Nagaland,Low
+,34.3061,77.32649999999998,india,Jammu and Kashmir,High
+,26.1619,91.7697,india,Assam,Medium
+,23.65637182,93.02746602,india,Mizoram,Medium
+,27.5748,91.8644,india,Arunachal Pradesh,Low
+,25.4477,94.0489,india,Manipur,High
+,30.51701952,79.09243030999998,india,Uttaranchal,Medium
+,25.3056,93.1265,india,Assam,High
+,27.13862165,88.22551799,india,Sikkim,High
+,33.242,75.23099999999998,india,Jammu and Kashmir,Low
+,26.048,91.8695,india,Meghalaya,Medium
+,26.9435,88.4445,india,West Bengal,Low
+,15.4951,73.8288,india,Goa,Medium
+,23.9939,94.0573,india,Manipur,Medium
+,19.0811,73.02259999999998,india,Maharashtra,Medium
+,27.0987,93.816,india,Arunachal Pradesh,Medium
+,33.1467,75.5488,india,Jammu and Kashmir,Medium
+,18.10936157,73.58420319999999,india,Maharashtra,High
+,27.8458,95.2253,india,Arunachal Pradesh,Low
+,24.27173018,93.28039349,india,Manipur,High
+,24.7543,93.5039,india,Manipur,Medium
+,29.1585,79.1464,india,Uttaranchal,Low
+,29.3908,79.4552,india,Uttaranchal,Medium
+,24.938948,93.49683700000001,india,Manipur,Low
+,27.1758,88.52939999999998,india,Sikkim,High
+,26.1016,91.6906,india,Assam,Low
+,11.67186116,75.96235435,india,Kerala,Low
+,34.258,75.41889999999998,india,Jammu and Kashmir,Low
+,22.6461,88.3403,india,West Bengal,Low
+,25.0477,92.801,india,Assam,Low
+,18.7686,73.3678,india,Maharashtra,Medium
+,25.19640994,93.13430585,india,Assam,Low
+,33.336892,75.19165534999999,india,Jammu and Kashmir,Low
+,33.29475374,74.56644559,india,Jammu and Kashmir,High
+,11.4046,76.6953,india,Tamil Nadu,Low
+,30.739231,78.373963,india,Uttaranchal,High
+,30.2835,79.24979999999998,india,Uttaranchal,Medium
+,30.9753,78.4375,india,Uttaranchal,Low
+,11.339753,76.869056,india,Tamil Nadu,High
+,10.86885351,76.03846722999998,india,Kerala,High
+,27.2333,94.1167,india,Assam,Medium
+,32.6987,75.0582,india,Jammu and Kashmir,Low
+,33.0186,75.24049999999998,india,Jammu and Kashmir,Low
+,23.3439,93.0748,india,Mizoram,High
+,30.2524,78.92279999999998,india,Uttaranchal,Low
+,27.0161,88.2478,india,West Bengal,High
+,12.8715,74.8862,india,Karnataka,Low
+,27.232798090000003,88.59292517,india,Sikkim,High
+,32.95544044,74.96483289999999,india,Jammu and Kashmir,Low
+,34.208,77.51009999999998,india,Jammu and Kashmir,Medium
+,33.1454521,75.78025690999998,india,Jammu and Kashmir,Low
+,25.15246863,92.94670614,india,Assam,Low
+,27.0375,88.26269999999998,india,West Bengal,Medium
+,25.5576,91.8506,india,Meghalaya,Low
+,33.33827658,75.19548806,india,Jammu and Kashmir,Medium
+,26.0093,94.5238,india,Nagaland,Low
+,23.8986,91.7599,india,Tripura,High
+,27.10350855,93.64513257,india,Arunachal Pradesh,High
+,30.416,78.34149999999998,india,Uttaranchal,Low
+,33.245,75.247,india,Jammu and Kashmir,Low
+,31.1,77.1645,india,Himachal Pradesh,Low
+,15.9517,73.9958,india,Maharashtra,High
+,11.3378713,76.88295958,india,Tamil Nadu,Low
+,33.6794,74.2525,india,Jammu and Kashmir,High
+,16.0781,78.8743,india,Andhra Pradesh,Medium
+,28.9986,94.8885,india,Arunachal Pradesh,High
+,25.203,90.5573,india,Meghalaya,High
+,31.5639,77.97979999999998,india,Himachal Pradesh,Medium
+,30.9012,77.09579999999998,india,Himachal Pradesh,High
+,26.3333,91.25,india,Assam,Low
+,30.2416,78.8996,india,Uttaranchal,Low
+,30.3846,78.8371,india,Uttaranchal,High
+,31.0215,77.1038,india,Himachal Pradesh,Low
+,34.248971,74.68430699999999,india,Jammu and Kashmir,High
+,28.6363,77.3957,india,Uttar Pradesh,Low
+,32.94818322,75.12206351,india,Jammu and Kashmir,Low
+,26.8836,88.2791,india,West Bengal,High
+,24.5938,72.7308,india,Rajasthan,Low
+,33.2412,75.2382,india,Jammu and Kashmir,High
+,24.98793655,93.49870413,india,Manipur,Low
+,33.0716,74.839,india,Jammu and Kashmir,Low
+,27.8385,88.55599999999998,india,Sikkim,Medium
+,31.7077,76.93129999999998,india,Himachal Pradesh,Medium
+,31.4551,78.1996,india,Himachal Pradesh,High
+,11.344,76.8691,india,Tamil Nadu,Medium
+,27.5523,91.752,india,Arunachal Pradesh,High
+,30.3299,79.3206,india,Uttaranchal,Medium
+,11.7792,78.2034,india,Tamil Nadu,Low
+,31.46626719,76.86927482,india,Himachal Pradesh,High
+,28.758,77.15,india,Delhi,High
+,25.9703,91.8584,india,Meghalaya,Low
+,26.885,88.2778,india,West Bengal,High
+,12.98670911,75.27809658000001,india,Karnataka,High
+,33.32217847,75.19281971000001,india,Jammu and Kashmir,Medium
+,17.2634,73.5446,india,Maharashtra,High
+,10.52955815,76.69262671,india,Kerala,Low
+,18.7591,73.3852,india,Maharashtra,Medium
+,26.1049,91.7369,india,Assam,Medium
+,24.8142,93.5444,india,Manipur,Low
+,12.95406833,77.52013277,india,Karnataka,Low
+,34.31775167,75.54649874,india,Jammu and Kashmir,Medium
+,25.3179,94.04620000000001,india,Manipur,High
+,9.40363243,77.05364274,india,Kerala,Medium
+,15.3455,73.89759999999998,india,Goa,Low
+,25.51614662,94.2341227,india,Nagaland,Medium
+,16.94057232,73.46476376999999,india,Maharashtra,Low
+,19.0402,72.9089,india,Maharashtra,Medium
+,30.9044,77.0969,india,Himachal Pradesh,High
+,12.845,75.65999999999998,india,Karnataka,Medium
+,30.5589,77.2889,india,Himachal Pradesh,Medium
+,29.5798,80.2123,india,Uttaranchal,Low
+,27.3392,88.61879999999998,india,Sikkim,Low
+,31.10312666,77.20355516,india,Himachal Pradesh,Low
+,29.5829,80.21819999999998,india,Uttaranchal,Medium
+,25.4749,93.1477,india,Assam,High
+,25.82601444,91.87113067000001,india,Meghalaya,Low
+,27.0096,88.2548,india,West Bengal,Low
+,25.9466,94.6279,india,Nagaland,Medium
+,30.1642,78.2936,india,Uttaranchal,Low
+,20.944738,85.156627,india,Orissa,High
+,24.1419,94.1078,india,Manipur,High
+,26.0137,94.5163,india,Nagaland,Low
+,10.077,76.322,india,Kerala,Low
+,33.0165,74.9437,india,Jammu and Kashmir,Medium
+,30.4783,78.2741,india,Uttaranchal,High
+,25.0888,92.8551,india,Assam,High
+,34.2946,75.48319999999998,india,Jammu and Kashmir,Low
+,33.049870899999995,75.94928866,india,Jammu and Kashmir,Medium
+,34.0096,74.59149999999998,india,Jammu and Kashmir,High
+,30.4876,78.0366,india,Uttaranchal,High
+,28.10756941,94.18315697000001,india,Arunachal Pradesh,Medium
+,16.52140962,80.60751229,india,Andhra Pradesh,Medium
+,28.5714,77.21349999999998,india,Delhi,High
+,27.1071241,93.65156438,india,Arunachal Pradesh,High
+,25.481623,93.141692,india,Assam,Medium
+,27.5161,88.5575,india,Sikkim,High
+,26.72,95.029,india,Nagaland,Low
+,33.775,74.0934,india,Jammu and Kashmir,Low
+,27.1499,88.37999999999998,india,Sikkim,Medium
+,27.3383,88.60689999999998,india,Sikkim,Medium
+,33.27070612,75.17529326999998,india,Jammu and Kashmir,Medium
+,26.2363,94.8133,india,Nagaland,Low
+,31.1191,77.5092,india,Himachal Pradesh,High
+,18.3978,73.5086,india,Maharashtra,Low
+,26.1978,91.7665,india,Assam,High
+,22.533,92.899,india,Mizoram,Low
+,19.3379,73.7767,india,Maharashtra,High
+,23.33501164,92.85410625,india,Mizoram,Low
+,25.16,93.686,india,Manipur,Medium
+,33.0852,74.8799,india,Jammu and Kashmir,Low
+,31.6865,77.10429999999998,india,Himachal Pradesh,High
+,20.47818279,86.106255,india,Orissa,Low
+,24.8063,93.9482,india,Manipur,Low
+,11.2738,75.8275,india,Kerala,Low
+,16.5141,80.6053,india,Andhra Pradesh,Medium
+,23.0137,91.7174,india,Tripura,Low
+,31.9563,77.1135,india,Himachal Pradesh,Medium
+,19.17041801,73.02151508,india,Maharashtra,Medium
+,20.5349,73.17029999999998,india,Gujarat,Low
+,26.1097,91.7747,india,Assam,Low
+,31.8833,78.61669999999998,india,Himachal Pradesh,Low
+,8.4863,76.9517,india,Kerala,High
+,10.1160933,77.14963250000001,india,Kerala,Low
+,30.0667,79.0193,india,Uttaranchal,Medium
+,33.2418,75.242,india,Jammu and Kashmir,Low
+,33.0086,74.9426,india,Jammu and Kashmir,High
+,27.6802471,93.62592773,india,Arunachal Pradesh,Low
+,33.7099,74.7959,india,Jammu and Kashmir,High
+,25.1553,93.028,india,Assam,High
+,12.02218293,75.775,india,Kerala,Low
+,32.9913,75.1915,india,Jammu and Kashmir,Medium
+,26.3335,94.5512,india,Nagaland,High
+,25.69111465,94.09483333,india,Nagaland,Low
+,27.6047,88.64629999999998,india,Sikkim,Low
+,25.3833,94.1884,india,Manipur,Medium
+,25.5125,93.3613,india,Assam,High
+,25.61560252,94.11603493,india,Nagaland,High
+,24.819,94.3551,india,Manipur,Low
+,30.8522,76.991,india,Himachal Pradesh,Low
+,33.9659,74.3313,india,Jammu and Kashmir,Medium
+,29.5863,80.21859999999998,india,Uttaranchal,Medium
+,27.0136,92.6351,india,Arunachal Pradesh,High
+,32.6175,75.6157,india,Jammu and Kashmir,High
+,30.7652,78.5925,india,Uttaranchal,Low
+,26.10973183,91.80317334,india,Assam,High
+,24.37169581,93.70684171,india,Manipur,Medium
+,33.08146902,75.29750088,india,Jammu and Kashmir,Medium
+,27.05957271,93.50102778,india,Arunachal Pradesh,Low
+,13.986,75.452,india,Karnataka,Medium
+,33.1292173,75.44618905999998,india,Jammu and Kashmir,Medium
+,11.3432,76.8285,india,Tamil Nadu,Medium
+,25.5498,92.0757,india,Meghalaya,Medium
+,33.798,74.2562,india,Jammu and Kashmir,Low
+,31.72415448,76.93732120999998,india,Himachal Pradesh,Low
+,30.81350174,78.6179215,india,Uttaranchal,High
+,31.348,77.4614,india,Himachal Pradesh,Medium
+,31.2403,77.92579999999998,india,Himachal Pradesh,High
+,30.6945,79.0544,india,Uttaranchal,Low
+,23.72988966,92.71495623000001,india,Mizoram,Low
+,32.02547867,76.16692598999998,india,Himachal Pradesh,Low
+,33.9243,74.61629999999998,india,Jammu and Kashmir,Low
+,18.7632,73.34699999999998,india,Maharashtra,Low
+,27.4888,93.0153,india,Arunachal Pradesh,Low
+,32.44155342,76.53467166,india,Himachal Pradesh,Low
+,32.9041,75.09109999999998,india,Jammu and Kashmir,Medium
+,33.2413,75.2381,india,Jammu and Kashmir,High
+,33.04965334,75.29048614,india,Jammu and Kashmir,Low
+,32.060732509999994,77.13301332999998,india,Himachal Pradesh,Medium
+,30.5004,79.3888,india,Uttaranchal,Medium
+,27.10647226,93.65975252,india,Arunachal Pradesh,High
+,9.8957,76.9346,india,Kerala,Low
+,18.769972,73.36312926,india,Maharashtra,High
+,27.11610665,93.79559574,india,Arunachal Pradesh,Low
+,12.8962,74.8859,india,Karnataka,Medium
+,29.7986,80.417,india,Uttaranchal,Medium
+,31.05513474,77.02399952,india,Himachal Pradesh,Medium
+,33.18477201,75.80813836,india,Jammu and Kashmir,Medium
+,16.93911427,73.4745894,india,Maharashtra,High
+,23.8447,93.0514,india,Mizoram,Low
+,15.949,73.9667,india,Maharashtra,Low
+,33.577,74.1872,india,Jammu and Kashmir,High
+,32.99,75.1892,india,Jammu and Kashmir,Low
+,27.1748,88.64579999999998,india,Sikkim,Medium
+,23.74253,92.73868,india,Mizoram,Low
+,19.1935,73.01139999999998,india,Maharashtra,Medium
+,34.1482,77.5971,india,Jammu and Kashmir,High
+,19.1711,73.0207,india,Maharashtra,Low
+,33.01739981,74.93828040999999,india,Jammu and Kashmir,High
+,33.33875958,75.19210609999999,india,Jammu and Kashmir,Low
+,33.3216,75.1984,india,Jammu and Kashmir,Medium
+,30.7395,77.2847,india,Himachal Pradesh,High
+,29.7334,79.6367,india,Uttaranchal,Low
+,25.0318,92.4584,india,Assam,Medium
+,19.241559,72.97031199999998,india,Maharashtra,High
+,29.420147,80.244129,india,Uttaranchal,High
+,30.9206,78.3276,india,Uttaranchal,Low
+,31.4135,77.89499999999998,india,Himachal Pradesh,Low
+,27.593,88.492,india,Sikkim,Low
+,9.99492836,76.5044632,india,Kerala,Medium
+,30.7666,78.7963,india,Uttaranchal,Low
+,30.15,78.7753,india,Uttaranchal,High
+,30.6326,78.9953,india,Uttaranchal,High
+,10.25289358,77.48190280999998,india,Tamil Nadu,Low
+,29.7911,80.058,india,Uttaranchal,Low
+,31.645,78.4354,india,Himachal Pradesh,High
+,30.821298950000003,78.23265711,india,Uttaranchal,Medium
+,25.5242,92.99140000000001,india,Assam,Low
+,25.5098,93.8794,india,Manipur,Low
+,9.74109526,76.71354671,india,Kerala,High
+,11.50032205,75.9902751,india,Kerala,Low
+,33.24199059,75.22770891,india,Jammu and Kashmir,Medium
+,26.07821691,94.72071068,india,Nagaland,High
+,27.97875751,94.26296826,india,Arunachal Pradesh,Low
+,10.45147354,76.98339138999998,india,Tamil Nadu,High
+,20.83341,86.03500799999999,india,Orissa,Low
+,30.1719,80.8576,india,Uttaranchal,Low
+,9.7327,76.8403,india,Kerala,Low
+,8.5845033,76.97925203000001,india,Kerala,Medium
+,27.4885,88.44509999999998,india,Sikkim,Medium
+,33.38247258,75.72287680000002,india,Jammu and Kashmir,High
+,27.08168565,93.60815652,india,Arunachal Pradesh,Low
+,27.3721,88.708,india,Sikkim,Low
+,34.0786,74.3836,india,Jammu and Kashmir,Medium
+,27.0011,93.7273,india,Arunachal Pradesh,Low
+,30.7204,79.0758,india,Uttaranchal,Medium
+,26.1314,91.7548,india,Assam,Low
+,31.0766,77.39159999999998,india,Himachal Pradesh,High
+,33.6917,76.0412,india,Jammu and Kashmir,Low
+,32.0985,76.26649999999998,india,Himachal Pradesh,Low
+,26.1966,91.802,india,Assam,Medium
+,32.1967,76.3194,india,Himachal Pradesh,Low
+,25.2745,94.0212,india,Manipur,Low
+,33.244313500000004,75.22742083,india,Jammu and Kashmir,Medium
+,29.4085,80.1327,india,Uttaranchal,High
+,26.87324244,88.29184021,india,West Bengal,High
+,33.2049,75.28449999999998,india,Jammu and Kashmir,Medium
+,25.31006064,94.48265093,india,Manipur,Medium
+,29.6042,79.5343,india,Uttaranchal,Medium
+,21.464,83.9462,india,Orissa,Medium
+,27.7167,88.55769999999998,india,Sikkim,Medium
+,30.4084,77.06659999999998,india,Haryana,High
+,26.8352,88.1881,india,West Bengal,High
+,12.89307458,74.88567316999999,india,Karnataka,Medium
+,31.42500223,78.26035018999998,india,Himachal Pradesh,Low
+,31.452060000000003,78.40130300000001,india,Himachal Pradesh,Medium
+,32.9148,75.0556,india,Jammu and Kashmir,Low
+,27.9032,96.174,india,Arunachal Pradesh,Medium
+,26.19037705,91.77306002,india,Assam,Medium
+,10.3448,77.56659999999998,india,Tamil Nadu,High
+,30.7314,78.4347,india,Uttaranchal,Low
+,15.8513,73.8161,india,Maharashtra,Low
+,25.705,94.04,india,Nagaland,High
+,30.9058,78.09059999999998,india,Uttaranchal,High
+,26.1677,94.2442,india,Nagaland,High
+,11.4816,75.9957,india,Kerala,High
+,27.5798729,91.85672387,india,Arunachal Pradesh,Low
+,30.1454,78.6007,india,Uttaranchal,Low
+,11.683,77.571,india,Tamil Nadu,Medium
+,8.3295,77.19629999999998,india,Tamil Nadu,Medium
+,30.4521,78.754,india,Uttaranchal,High
+,24.837,93.9128,india,Manipur,High
+,10.0539,76.8294,india,Kerala,High
+,30.3822,78.09489999999998,india,Uttaranchal,Medium
+,30.4008,79.0278,india,Uttaranchal,Medium
+,15.323,73.974,india,Goa,Medium
+,18.2807,83.0394,india,Andhra Pradesh,Medium
+,31.8795,76.9161,india,Himachal Pradesh,Medium
+,24.86388954,93.62191829,india,Manipur,Medium
+,25.48,94.1383,india,Manipur,Medium
+,29.9862,78.6115,india,Uttaranchal,High
+,33.1289,75.4325,india,Jammu and Kashmir,High
+,33.6296,74.52639999999998,india,Jammu and Kashmir,High
+,25.06657276,93.9310888,india,Manipur,High
+,27.3341,88.6083,india,Sikkim,Medium
+,32.361492500000004,77.23398736,india,Himachal Pradesh,Low
+,30.50415824,79.48751263999998,india,Uttaranchal,Medium
+,30.27158781,79.44950952,india,Uttaranchal,Low
+,25.4538,93.9827,india,Manipur,High
+,11.41,76.69,india,Tamil Nadu,Medium
+,25.8877,94.7861,india,Nagaland,High
+,31.0931,77.1675,india,Himachal Pradesh,Medium
+,27.2743,92.9064,india,Arunachal Pradesh,High
+,25.56728469,91.90642696,india,Meghalaya,Low
+,33.241,75.23399999999998,india,Jammu and Kashmir,Low
+,26.092493,94.257523,india,Nagaland,Low
+,12.9368,77.6177,india,Karnataka,Medium
+,17.4303,73.50969999999998,india,Maharashtra,Low
+,25.55544,93.63981,india,Nagaland,Medium
+,26.0814,94.803,india,Nagaland,Low
+,25.51826286,91.9630294,india,Meghalaya,Low
+,23.0396,72.566,india,Gujarat,Medium
+,31.8246,77.4702,india,Himachal Pradesh,Medium
+,32.34193603,77.22157675000001,india,Himachal Pradesh,Low
+,26.1324,91.8342,india,Assam,Medium
+,26.191688000000003,91.810079,india,Assam,Low
+,25.318,94.0441,india,Manipur,Medium
+,31.5304,77.77549999999998,india,Himachal Pradesh,High
+,33.6846,74.2453,india,Jammu and Kashmir,High
+,33.303,77.8876,india,Jammu and Kashmir,High
+,27.583849,91.876945,india,Arunachal Pradesh,High
+,27.303999,92.407813,india,Arunachal Pradesh,High
+,25.463,92.2121,india,Meghalaya,Low
+,27.6163,88.6586,india,Sikkim,High
+,25.1416,92.3807,india,Meghalaya,High
+,11.30665848,76.20771335,india,Kerala,High
+,33.2359,75.24389999999998,india,Jammu and Kashmir,High
+,23.7365,92.7146,india,Mizoram,Medium
+,30.5345,79.0853,india,Uttaranchal,Low
+,32.30628994,77.52161234,india,Himachal Pradesh,High
+,25.0634,94.3415,india,Manipur,High
+,32.34525044,76.52057023,india,Himachal Pradesh,High
+,12.04592412,75.73268747,india,Kerala,Low
+,8.1747,77.444,india,Tamil Nadu,Medium
+,8.742,76.89019999999998,india,Kerala,Low
+,25.4788,94.1399,india,Manipur,Medium
+,25.4192,94.108,india,Manipur,High
+,22.87370331,92.7581259,india,Mizoram,High
+,25.4379,94.1162,india,Manipur,Low
+,24.9667,93.55,india,Manipur,Low
+,30.922325,78.68137899999998,india,Uttaranchal,Medium
+,34.0887,74.0227,india,Jammu and Kashmir,Medium
+,25.1122,94.3591,india,Manipur,Low
+,11.90505908,76.00043563,india,Kerala,Medium
+,31.1,77.15999999999998,india,Himachal Pradesh,Low
+,26.66354481,94.62220277,india,Nagaland,Medium
+,26.9282,88.45529999999998,india,West Bengal,Low
+,33.9337,74.9985,india,Jammu and Kashmir,Low
+,11.86719598,75.6300566,india,Kerala,Low
+,15.5931,73.81189999999998,india,Goa,Medium
+,27.8965,96.1779,india,Arunachal Pradesh,Medium
+,25.8702,94.7844,india,Nagaland,Medium
+,34.2689,75.1495,india,Jammu and Kashmir,Low
+,34.08327655,74.03228332,india,Jammu and Kashmir,Medium
+,31.8931,78.62999999999998,india,Himachal Pradesh,Medium
+,30.9141,76.818,india,Himachal Pradesh,Low
+,12.41220889,75.73422934,india,Karnataka,High
+,32.0275,77.3446,india,Himachal Pradesh,Low
+,29.5833,80.2167,india,Uttaranchal,Medium
+,17.4655,78.4606,india,Telangana,Low
+,10.0604,76.635,india,Kerala,High
+,11.35008,76.791735,india,Tamil Nadu,Low
+,32.9411,75.0922,india,Jammu and Kashmir,Medium
+,26.1844,91.7896,india,Assam,High
+,24.9925,93.5,india,Manipur,Medium
+,25.3433,92.2897,india,Meghalaya,High
+,34.2116,77.35039999999998,india,Jammu and Kashmir,High
+,33.2483,75.21309999999998,india,Jammu and Kashmir,Low
+,33.3390327,75.1916877,india,Jammu and Kashmir,Low
+,29.6131,79.494,india,Uttaranchal,Medium
+,19.0397,72.90699999999998,india,Maharashtra,Low
+,12.80189359,75.59095835,india,Karnataka,Low
+,33.2407,75.2373,india,Jammu and Kashmir,High
+,26.1061808,91.85158907,india,Assam,Low
+,34.2088,74.3279,india,Jammu and Kashmir,High
+,30.9544,77.50629999999998,india,Himachal Pradesh,High
+,31.107564080000003,77.21537741999998,india,Himachal Pradesh,High
+,26.14547804,91.79364785000001,india,Assam,Medium
+,34.30436709,76.93328667999998,india,Jammu and Kashmir,Medium
+,31.958,77.1104,india,Himachal Pradesh,Medium
+,15.2875681,73.97726045,india,Goa,High
+,24.5204,92.7264,india,Assam,Medium
+,12.8277,75.0772,india,Karnataka,Medium
+,26.2632687,94.81481951,india,Nagaland,Low
+,10.0539,76.8298,india,Kerala,Medium
+,27.339,88.60649999999998,india,Sikkim,Medium
+,31.49579417,76.23393204,india,Himachal Pradesh,High
+,32.9961,75.19939999999998,india,Jammu and Kashmir,High
+,30.5345,79.0853,india,Uttaranchal,High
+,24.7979,92.99740000000001,india,Assam,High
+,23.79260297,91.53090192,india,Tripura,High
+,25.7713,93.8067,india,Nagaland,High
+,11.54868241,76.03927145999998,india,Kerala,Medium
+,33.6303,74.4838,india,Jammu and Kashmir,High
+,32.55696156,76.12910569999998,india,Himachal Pradesh,High
+,11.3403,76.8267,india,Tamil Nadu,Low
+,26.222,94.91520000000001,india,Nagaland,Medium
+,11.91014201,75.45875638999999,india,Kerala,Medium
+,12.8747,74.95659999999998,india,Karnataka,Medium
+,30.59661,79.569767,india,Uttaranchal,High
+,15.4465,73.927,india,Goa,High
+,32.17,77.17879999999998,india,Himachal Pradesh,High
+,34.2101,74.34449999999998,india,Jammu and Kashmir,Low
+,33.12172879,75.40856188,india,Jammu and Kashmir,High
+,18.7687,73.3679,india,Maharashtra,Low
+,32.5552,76.12489999999998,india,Himachal Pradesh,Medium
+,26.7103,94.693,india,Nagaland,High
+,28.0791,96.5242,india,Arunachal Pradesh,Low
+,30.688,79.04779999999998,india,Uttaranchal,Low
+,26.3221,80.47029999999998,india,Uttar Pradesh,High
+,25.11956675,94.36416626,india,Manipur,Medium
+,31.09793945,77.15163968,india,Himachal Pradesh,Medium
+,30.4542,78.39109999999998,india,Uttaranchal,Medium
+,33.18368391,75.80816901,india,Jammu and Kashmir,Low
+,9.94953321,77.04450095999998,india,Kerala,Low
+,33.33819588,75.19229171,india,Jammu and Kashmir,Low
+,30.1281,78.3221,india,Uttaranchal,Low
+,27.0875,88.6556,india,West Bengal,Medium
+,30.4054,79.3426,india,Uttaranchal,High
+,30.9013,79.5322,india,Uttaranchal,Low
+,10.0606,76.6331,india,Kerala,Low
+,25.80836408,93.79016194,india,Nagaland,Medium
+,27.1032,93.6884,india,Arunachal Pradesh,High
+,30.4043,79.33079999999998,india,Uttaranchal,High
+,33.616,77.76519999999998,india,Jammu and Kashmir,Medium
+,9.81761111,76.79933332999998,india,Kerala,Medium
+,25.3908,94.0926,india,Manipur,High
+,32.304,77.2106,india,Himachal Pradesh,Low
+,26.89962682,88.28650466,india,West Bengal,High
+,31.1026923,77.15932841,india,Himachal Pradesh,Medium
+,15.3925,73.8377,india,Goa,Low
+,11.65193314,76.00514552,india,Kerala,Low
+,23.899,94.1434,india,Manipur,Medium
+,34.16098224,77.55448943,india,Jammu and Kashmir,Medium
+,10.3018,77.17109999999998,india,Kerala,Medium
+,25.83762589,93.94633448,india,Nagaland,High
+,25.9702,91.85870000000001,india,Meghalaya,High
+,31.5699,78.2844,india,Himachal Pradesh,Low
+,31.703,76.936,india,Himachal Pradesh,Medium
+,29.38720379,79.46145342,india,Uttaranchal,Low
+,19.1646,72.9325,india,Maharashtra,Low
+,29.841,79.7758,india,Uttaranchal,Low
+,26.89,88.28,india,West Bengal,Low
+,31.0722,77.14019999999998,india,Himachal Pradesh,Medium
+,26.8905,88.27889999999998,india,West Bengal,Low
+,23.7281,92.7175,india,Mizoram,Medium
+,26.1001,91.68490000000001,india,Assam,Medium
+,26.9974,88.43139999999998,india,West Bengal,High
+,34.1619,77.5528,india,Jammu and Kashmir,Medium
+,33.3037,75.18269999999998,india,Jammu and Kashmir,High
+,32.737,74.876,india,Jammu and Kashmir,Medium
+,30.0134,79.9261,india,Uttaranchal,Medium
+,27.49532869,88.5364844,india,Sikkim,Medium
+,32.2237,76.3369,india,Himachal Pradesh,High
+,29.3802,79.4633,india,Uttaranchal,High
+,30.4517,78.1443,india,Uttaranchal,Low
+,19.0222,72.86629999999998,india,Maharashtra,High
+,23.73354779,92.74744512,india,Mizoram,High
+,25.58822736,92.02269564,india,Meghalaya,High
+,15.8294,78.0501,india,Andhra Pradesh,High
+,30.5568,79.5541,india,Uttaranchal,Low
+,16.5141,80.6058,india,Andhra Pradesh,High
+,33.3551,74.5128,india,Jammu and Kashmir,Medium
+,25.9611,91.3681,india,Assam,Medium
+,26.0977,94.7031,india,Nagaland,High
+,30.7284,79.4971,india,Uttaranchal,High
+,17.7345,83.28839999999998,india,Andhra Pradesh,Medium
+,10.52205416,76.64815403,india,Kerala,Medium
+,30.1944,79.1939,india,Uttaranchal,Low
+,29.5659,80.3657,india,Uttaranchal,Medium
+,31.4161,77.4153,india,Himachal Pradesh,Medium
+,9.9995,77.0309,india,Kerala,High
+,26.8826,88.2806,india,West Bengal,Medium
+,11.6753,92.749,india,Andaman and Nicobar Islands,Low
+,11.3464,76.80759999999998,india,Tamil Nadu,Medium
+,27.1954,88.6115,india,Sikkim,High
+,31.7099,76.933,india,Himachal Pradesh,High
+,12.8157,74.85859999999998,india,Karnataka,Medium
+,26.90298048,88.29518925,india,West Bengal,High
+,30.3351,78.5113,india,Uttaranchal,Low
+,32.2934,77.1803,india,Himachal Pradesh,Low
+,29.5477,79.3211,india,Uttaranchal,Medium
+,27.0638,88.4659,india,West Bengal,Medium
+,32.22035575,76.31070832,india,Himachal Pradesh,Medium
+,28.6809,77.1958,india,Delhi,High
+,16.1078,73.7167,india,Maharashtra,Low
+,30.2902,79.15099999999998,india,Uttaranchal,Low
+,12.9746,80.2119,india,Tamil Nadu,High
+,27.0713,88.4308,india,West Bengal,Low
+,25.1941,94.4481,india,Manipur,Medium
+,26.876,75.8101,india,Rajasthan,Medium
+,25.1718,93.123,india,Assam,Medium
+,13.87803507,74.6246332,india,Karnataka,Low
+,30.7,77.08,india,Haryana,Medium
+,26.3186,94.5121,india,Nagaland,High
+,33.0289,74.94889999999998,india,Jammu and Kashmir,High
+,28.8665,79.5682,india,Uttaranchal,Low
+,31.1011,77.1793,india,Himachal Pradesh,High
+,11.404,76.6952,india,Tamil Nadu,High
+,30.7412,79.4929,india,Uttaranchal,Low
+,9.9431,76.3738,india,Kerala,Medium
+,32.1002,76.2699,india,Himachal Pradesh,Medium
+,12.8659,74.8852,india,Karnataka,Medium
+,31.709,76.9312,india,Himachal Pradesh,Low
+,33.13810294,75.51068483999998,india,Jammu and Kashmir,High
+,32.5606,76.12059999999998,india,Himachal Pradesh,Medium
+,25.0633,92.8025,india,Assam,Medium
+,30.8974,77.0588,india,Himachal Pradesh,Low
+,33.7453,74.1794,india,Jammu and Kashmir,Medium
+,19.153,72.92659999999998,india,Maharashtra,Low
+,34.3951,75.6233,india,Jammu and Kashmir,High
+,32.5764,75.84659999999998,india,Jammu and Kashmir,Low
+,32.9834,75.6953,india,Jammu and Kashmir,Low
+,32.17102661,76.41866145999998,india,Himachal Pradesh,Low
+,26.88,88.28,india,West Bengal,Low
+,31.43714183,78.23568806,india,Himachal Pradesh,High
+,11.74045825,75.79592486,india,Kerala,High
+,9.9147,77.01099999999998,india,Kerala,Medium
+,11.86842559,75.95230556,india,Kerala,High
+,11.34165808,76.86942779999998,india,Tamil Nadu,High
+,25.4993,94.1192,india,Manipur,Medium
+,14.4702,78.82049999999998,india,Andhra Pradesh,High
+,23.73504471,92.71060943,india,Mizoram,Low
+,31.01884813,78.04493479,india,Uttaranchal,Low
+,32.5282,75.1199,india,Jammu and Kashmir,Medium
+,27.0816,88.4397,india,West Bengal,Medium
+,26.1475,91.7356,india,Assam,Medium
+,26.8572,88.3143,india,West Bengal,Low
+,27.20938411,93.61539279,india,Arunachal Pradesh,High
+,10.64244216,76.22495035,india,Kerala,Low
+,27.1667,88.34999999999998,india,Sikkim,Medium
+,14.0354,74.6624,india,Karnataka,High
+,11.8348,75.4856,india,Kerala,High
+,27.201,88.48829999999998,india,Sikkim,Low
+,15.7051,74.2197,india,Karnataka,Medium
+,25.5212,90.23200000000001,india,Meghalaya,Low
+,32.2862,77.16129999999998,india,Himachal Pradesh,High
+,30.41288197,78.08379452999998,india,Uttaranchal,Low
+,30.966,78.41509999999998,india,Uttaranchal,Low
+,27.2879,88.2579,india,Sikkim,Medium
+,32.71989308,76.09863374000001,india,Himachal Pradesh,Medium
+,34.58916028,74.24641226,india,Jammu and Kashmir,High
+,33.14419929,75.76778247,india,Jammu and Kashmir,Low
+,27.3543,88.64279999999998,india,Sikkim,Low
+,27.0257,88.43009999999998,india,West Bengal,Low
+,23.83291945,92.63125938,india,Mizoram,High
+,19.678,73.5036,india,Maharashtra,High
+,26.9986,95.4993,india,Arunachal Pradesh,Medium
+,33.09846173,75.32835754999998,india,Jammu and Kashmir,Medium
+,33.4406,75.1996,india,Jammu and Kashmir,Medium
+,33.0272,74.9465,india,Jammu and Kashmir,Low
+,25.73111942,93.98827528,india,Nagaland,Low
+,32.24637329,78.06616409,india,Himachal Pradesh,Medium
+,12.71770821,75.56314853,india,Karnataka,Low
+,26.1984,94.8158,india,Nagaland,Medium
+,26.88405686,88.28087032,india,West Bengal,High
+,30.29068049,78.48725976999998,india,Uttaranchal,Medium
+,29.36,80.126,india,Uttaranchal,High
+,30.895,77.089,india,Himachal Pradesh,Low
+,33.3296,75.203,india,Jammu and Kashmir,Medium
+,31.5007,78.17579999999998,india,Himachal Pradesh,Low
+,25.181453,93.118105,india,Assam,High
+,33.288297,75.178026,india,Jammu and Kashmir,High
+,26.159,91.8178,india,Assam,High
+,31.5216,78.1346,india,Himachal Pradesh,Low
+,15.0275,74.1623,india,Goa,Low
+,10.67604803,76.16521,india,Kerala,Low
+,25.26049558,94.01914123,india,Manipur,Low
+,31.0358,78.85779999999998,india,Uttaranchal,High
+,25.7238,89.9032,india,Assam,High
+,26.8992,88.1667,india,West Bengal,Medium
+,30.73315585,79.49231616999998,india,Uttaranchal,Medium
+,27.104022,93.61156568,india,Arunachal Pradesh,Low
+,27.2319,88.497,india,Sikkim,High
+,25.6278,94.1051,india,Nagaland,High
+,26.5836,93.0038,india,Assam,High
+,22.90813548,92.47207294,india,Mizoram,Medium
+,17.3895,78.49899999999998,india,Telangana,Medium
+,33.3376,75.1922,india,Jammu and Kashmir,High
+,9.7268,76.80809999999998,india,Kerala,High
+,27.6558,88.605,india,Sikkim,High
+,25.660517,94.104931,india,Nagaland,Medium
+,32.76390852,77.28272548000001,india,Himachal Pradesh,High
+,29.9551,78.16769999999998,india,Uttaranchal,High
+,31.5728,77.8561,india,Himachal Pradesh,Low
+,33.2504,75.2102,india,Jammu and Kashmir,Low
+,24.1988,94.1016,india,Manipur,Medium
+,32.74103796,74.87509308999998,india,Jammu and Kashmir,High
+,9.700195890000002,76.87130509,india,Kerala,High
+,25.1019,93.3729,india,Manipur,Low
+,12.804209,75.58365899999998,india,Karnataka,Medium
+,33.1662,75.30979999999998,india,Jammu and Kashmir,Low
+,27.058803840000003,93.54136779,india,Arunachal Pradesh,Low
+,33.212653270000004,75.36251229999998,india,Jammu and Kashmir,Low
+,33.30077774,75.18148185999999,india,Jammu and Kashmir,Low
+,31.4711,77.6746,india,Himachal Pradesh,High
+,30.8928,78.48,india,Uttaranchal,High
+,33.3118,75.7525,india,Jammu and Kashmir,Low
+,24.6869,93.9157,india,Manipur,Medium
+,33.0677,75.1466,india,Jammu and Kashmir,Medium
+,30.6014,78.34489999999998,india,Uttaranchal,Medium
+,33.9548314,74.79428355999998,india,Jammu and Kashmir,Medium
+,10.0838,77.06959999999998,india,Kerala,Low
+,28.0822,96.5316,india,Arunachal Pradesh,High
+,26.3185,94.5247,india,Nagaland,Medium
+,30.9546,77.17919999999998,india,Himachal Pradesh,Low
+,23.71701896,91.61577214,india,Tripura,Medium
+,30.7362,78.44,india,Uttaranchal,Medium
+,33.43537575,75.19067397,india,Jammu and Kashmir,Low
+,34.16747729,77.58032466,india,Jammu and Kashmir,High
+,31.7017,76.973,india,Himachal Pradesh,High
+,30.6738,77.3544,india,Himachal Pradesh,Low
+,31.0365,77.1213,india,Himachal Pradesh,High
+,34.08452617,74.03027722,india,Jammu and Kashmir,Low
+,25.426,94.6024,india,Manipur,Low
+,33.2394,75.24049999999998,india,Jammu and Kashmir,Low
+,29.5952,79.66249999999998,india,Uttaranchal,High
+,9.835,76.8661,india,Kerala,Low
+,18.7828,82.79349999999998,india,Orissa,Medium
+,30.0705,80.2364,india,Uttaranchal,High
+,23.3572,92.7878,india,Mizoram,High
+,12.9455,75.7797,india,Karnataka,High
+,16.5141,80.6055,india,Andhra Pradesh,High
+,31.51688414,78.2689368,india,Himachal Pradesh,Medium
+,30.742,78.4543,india,Uttaranchal,High
+,33.49573061,75.18134474,india,Jammu and Kashmir,High
+,33.24823884,75.21350070999999,india,Jammu and Kashmir,Low
+,32.3109,77.21949999999998,india,Himachal Pradesh,High
+,12.82402778,75.21163889,india,Karnataka,Medium
+,30.0718,80.2369,india,Uttaranchal,Medium
+,30.4749,79.22929999999998,india,Uttaranchal,Medium
+,32.9918,75.1945,india,Jammu and Kashmir,Medium
+,30.80200029,78.61786282,india,Uttaranchal,High
+,31.497908,76.874543,india,Himachal Pradesh,High
+,25.132228,93.04681,india,Assam,Medium
+,24.9336,93.8275,india,Manipur,Medium
+,18.7624,73.3747,india,Maharashtra,High
+,31.7085,76.92969999999998,india,Himachal Pradesh,Medium
+,30.7386,79.4954,india,Uttaranchal,Low
+,10.0011,76.7416,india,Kerala,Medium
+,24.7016,93.5291,india,Manipur,Medium
+,9.6991,76.8168,india,Kerala,Low
+,32.2241,76.3374,india,Himachal Pradesh,Low
+,31.46719805,76.2629766,india,Himachal Pradesh,High
+,28.5746,77.2791,india,Delhi,High
+,33.35149269,74.23352995,india,Jammu and Kashmir,Low
+,27.322,88.6087,india,Sikkim,Low
+,14.52203442,74.41035052000002,india,Karnataka,High
+,31.5375,77.3737,india,Himachal Pradesh,Medium
+,30.86642127,76.99790294999998,india,Himachal Pradesh,Low
+,33.2611,75.2138,india,Jammu and Kashmir,High
+,25.77171292,93.93507183,india,Nagaland,Medium
+,9.8306,76.94079999999998,india,Kerala,Low
+,15.3956,74.0113,india,Goa,Medium
+,16.9214,73.593,india,Maharashtra,High
+,31.10587659,77.17798484999999,india,Himachal Pradesh,Low
+,33.315809650000006,75.76341339000001,india,Jammu and Kashmir,Medium
+,26.9343,88.4486,india,West Bengal,Low
+,30.3799,78.48619999999998,india,Uttaranchal,Medium
+,26.7223,95.0243,india,Nagaland,High
+,18.7734,82.8555,india,Orissa,High
+,30.6639,78.0574,india,Uttaranchal,Low
+,27.769793,93.50995626,india,Arunachal Pradesh,Medium
+,24.82767572,93.51825,india,Manipur,Low
+,25.4769,94.1351,india,Manipur,Low
+,25.8782,94.1739,india,Nagaland,Medium
+,19.19,73.009,india,Maharashtra,Medium
+,27.04768643,93.61899644,india,Arunachal Pradesh,Medium
+,30.7333,78.43989999999998,india,Uttaranchal,High
+,24.544,85.34919999999998,india,Bihar,Low
+,31.70825083,77.18596778,india,Himachal Pradesh,Low
+,12.82257645,75.62131525000001,india,Karnataka,High
+,24.4072,94.0644,india,Manipur,Medium
+,30.7007,77.8644,india,Uttaranchal,High
+,32.219,78.072,india,Himachal Pradesh,High
+,30.241,78.9,india,Uttaranchal,High
+,26.1961,91.78250000000001,india,Assam,Low
+,16.5121,80.62959999999998,india,Andhra Pradesh,High
+,33.1253,74.8288,india,Jammu and Kashmir,Low
+,19.0949,72.88989999999998,india,Maharashtra,Low
+,11.4098,76.6939,india,Tamil Nadu,Low
+,27.3773,88.55899999999998,india,Sikkim,Medium
+,31.4898,76.7043,india,Himachal Pradesh,Low
+,18.97213889,84.15813889,india,Orissa,Low
+,18.431,79.14919999999998,india,Telangana,Medium
+,31.0655,77.13249999999998,india,Himachal Pradesh,Low
+,33.23738085,75.24528225999998,india,Jammu and Kashmir,High
+,32.2282,77.1898,india,Himachal Pradesh,High
+,32.831979999999994,75.73015899999999,india,Jammu and Kashmir,Low
+,33.3307,75.1772,india,Jammu and Kashmir,Medium
+,16.9648,73.5189,india,Maharashtra,High
+,26.3312531,94.55427723,india,Nagaland,Medium
+,26.1062,91.8717,india,Assam,Medium
+,30.9936,78.4594,india,Uttaranchal,High
+,27.0678,88.456,india,West Bengal,Medium
+,30.506,79.1127,india,Uttaranchal,High
+,15.7156,73.8049,india,Goa,Medium
+,10.16699483,76.75872389,india,Kerala,High
+,31.956546,77.109719,india,Himachal Pradesh,Low
+,32.4298,75.58069999999998,india,Jammu and Kashmir,High
+,28.8254,96.1517,india,Arunachal Pradesh,High
+,30.2851,78.9829,india,Uttaranchal,High
+,20.43251283,85.51345613000002,india,Orissa,High
+,25.4916,91.2698,india,Meghalaya,Medium
+,31.11122752,77.60624692,india,Himachal Pradesh,Low
+,33.40117268,75.18645314000001,india,Jammu and Kashmir,High
+,29.58,80.2214,india,Uttaranchal,Medium
+,17.9031,73.43609999999998,india,Maharashtra,Low
+,32.8468,75.137,india,Jammu and Kashmir,Low
+,26.8811,88.2779,india,West Bengal,Low
+,33.2706,75.7702,india,Jammu and Kashmir,Low
+,34.0968,74.41169999999998,india,Jammu and Kashmir,High
+,33.220138000000006,75.79644800000001,india,Jammu and Kashmir,High
+,19.41286968,73.28423263,india,Maharashtra,Medium
+,33.12172879,75.40856188,india,Jammu and Kashmir,Medium
+,18.9774,72.81019999999998,india,Maharashtra,Medium
+,29.393,79.4525,india,Uttaranchal,Low
+,10.3228,76.4319,india,Kerala,Low
+,33.2355,75.2449,india,Jammu and Kashmir,High
+,33.18025403,75.80786093,india,Jammu and Kashmir,Low
+,25.4976444,94.12901274,india,Manipur,Low
+,30.0712,80.2386,india,Uttaranchal,Low
+,30.38069426,78.47049964999998,india,Uttaranchal,Medium
+,25.82860033,91.87671700000001,india,Meghalaya,Medium
+,34.309258789999994,75.53528588,india,Jammu and Kashmir,High
+,9.5988,76.52889999999998,india,Kerala,Low
+,30.796,78.623,india,Uttaranchal,Low
+,26.8342,88.27979999999998,india,West Bengal,High
+,12.9141,74.85599999999998,india,Karnataka,Low
+,27.05374234,88.42572376000001,india,West Bengal,Low
+,31.0766,77.3913,india,Himachal Pradesh,Medium
+,29.88884727,80.56522226,india,Uttaranchal,High
+,24.3599,85.6179,india,Jharkhand,High
+,32.3682,75.5227,india,Jammu and Kashmir,High
+,30.0261,78.62779999999998,india,Uttaranchal,High
+,29.99311111,78.33044443999998,india,Uttaranchal,Medium
+,30.4554,78.0973,india,Uttaranchal,Medium
+,17.0661,73.5027,india,Maharashtra,Low
+,30.6179,78.3233,india,Uttaranchal,Low
+,34.0935,74.91119999999998,india,Jammu and Kashmir,Low
+,12.8446,75.2476,india,Karnataka,Low
+,32.79349919,74.82127414,india,Jammu and Kashmir,Medium
+,27.54255403,88.62957833999998,india,Sikkim,High
+,25.1796,93.0083,india,Assam,Medium
+,24.9818,93.5142,india,Manipur,Low
+,33.287,77.2853,india,Jammu and Kashmir,Medium
+,27.06826195,88.28121204,india,West Bengal,High
+,25.08,75.72,india,Rajasthan,High
+,26.11613908,94.24222574,india,Nagaland,Medium
+,9.5207,77.0198,india,Kerala,Medium
+,10.9628,77.5947,india,Tamil Nadu,Medium
+,25.7685,93.82005556,india,Nagaland,Low
+,9.9983,76.7329,india,Kerala,Medium
+,24.004,93.9815,india,Manipur,Medium
+,31.0851,77.1665,india,Himachal Pradesh,Medium
+,19.069,72.8703,india,Maharashtra,High
+,33.8911,74.9781,india,Jammu and Kashmir,High
+,32.1764,76.3075,india,Himachal Pradesh,Low
+,26.10430759,91.86227824,india,Assam,Low
+,30.6509,79.5192,india,Uttaranchal,High
+,29.33,80.09999999999998,india,Uttaranchal,High
+,30.676294820000003,79.04191790999998,india,Uttaranchal,High
+,9.4237,76.9371,india,Kerala,Medium
+,34.43134194,75.74123394,india,Jammu and Kashmir,Medium
+,11.374,77.8987,india,Tamil Nadu,High
+,27.98531715,94.21263589,india,Arunachal Pradesh,Medium
+,31.6223,78.0193,india,Himachal Pradesh,Medium
+,33.24019317,75.23888988999998,india,Jammu and Kashmir,Low
+,28.235,94.9612,india,Arunachal Pradesh,High
+,14.7812,74.49899999999998,india,Karnataka,High
+,34.0123,77.9988,india,Jammu and Kashmir,Medium
+,26.56636244,93.13195098000001,india,Assam,High
+,15.5419,73.9214,india,Goa,Low
+,31.13,77.09,india,Himachal Pradesh,Low
+,31.4881,76.67019999999998,india,Himachal Pradesh,Low
+,10.6012346,76.61007121,india,Kerala,High
+,25.0672,93.4093,india,Manipur,High
+,11.34942664,76.84947966,india,Tamil Nadu,High
+,15.68638494,74.16234113999998,india,Karnataka,High
+,15.15,74.11,india,Goa,High
+,11.96697752,75.80869049999998,india,Kerala,Low
+,33.241,75.2382,india,Jammu and Kashmir,Medium
+,34.0823,74.05599999999998,india,Jammu and Kashmir,Low
+,30.6293,78.33029999999998,india,Uttaranchal,High
+,16.656,73.51779999999998,india,Maharashtra,Low
+,24.83507319,93.89896294,india,Manipur,High
+,12.8041,74.8678,india,Karnataka,High
+,15.7067,73.9551,india,Maharashtra,Low
+,26.8843,88.18349999999998,india,West Bengal,High
+,13.90074546,74.66018578,india,Karnataka,Medium
+,26.1147,94.3864,india,Nagaland,High
+,11.34376314,76.79310973,india,Tamil Nadu,Medium
+,19.0298,72.91039999999998,india,Maharashtra,Medium
+,26.1665,91.7049,india,Assam,High
+,19.1095,72.89289999999998,india,Maharashtra,Low
+,19.4662,72.8276,india,Maharashtra,Medium
+,26.1768,91.7702,india,Assam,Low
+,25.5114,90.215,india,Meghalaya,Medium
+,25.61919207,92.7094701,india,Assam,High
+,32.2278,78.071,india,Himachal Pradesh,High
+,33.1078,74.77559999999998,india,Jammu and Kashmir,Medium
+,27.8776,94.25,india,Arunachal Pradesh,High
+,32.6173,75.26399999999998,india,Jammu and Kashmir,Medium
+,33.23064797,75.25138307,india,Jammu and Kashmir,High
+,27.6438,93.871,india,Arunachal Pradesh,Low
+,18.2733,83.06449999999998,india,Andhra Pradesh,High
+,25.4941,82.5725,india,Uttar Pradesh,Low
+,30.3056,79.32859999999998,india,Uttaranchal,High
+,31.1838,76.9907,india,Himachal Pradesh,Low
+,24.9037,93.487,india,Manipur,High
+,33.0809,75.2966,india,Jammu and Kashmir,Low
+,9.89957093,76.98511193,india,Kerala,Medium
+,10.92631521,77.79584597,india,Tamil Nadu,Medium
+,33.2537,75.20059999999998,india,Jammu and Kashmir,Low
+,26.1044,91.7082,india,Assam,High
+,24.9786,93.5027,india,Manipur,Low
+,27.45377772,88.52426486,india,Sikkim,High
+,11.2777,77.12359999999998,india,Tamil Nadu,Medium
+,25.5145,90.2023,india,Meghalaya,High
+,32.23427242,77.18888332,india,Himachal Pradesh,Medium
+,33.370552,75.193916,india,Jammu and Kashmir,High
+,26.9015,88.4719,india,West Bengal,High
+,34.2607,75.44459999999998,india,Jammu and Kashmir,High
+,33.4209,75.20449999999998,india,Jammu and Kashmir,Low
+,24.6108,92.562,india,Assam,Low
+,9.879,76.9683,india,Kerala,Medium
+,33.1445,75.54689999999998,india,Jammu and Kashmir,Medium
+,33.2451,75.2257,india,Jammu and Kashmir,Low
+,24.8961,93.49570000000001,india,Manipur,Medium
+,29.29558605,79.54043078,india,Uttaranchal,Low
+,25.0118,94.3136,india,Manipur,High
+,33.33197566,75.20070998999998,india,Jammu and Kashmir,Medium
+,30.4041,79.3276,india,Uttaranchal,Medium
+,30.7313,78.4358,india,Uttaranchal,Low
+,24.4265,94.1913,india,Manipur,Medium
+,24.19467451,91.82931979,india,Tripura,Medium
+,24.8628,94.41820000000001,india,Manipur,High
+,25.8833,91.2,india,Assam,Medium
+,16.5175,80.6117,india,Andhra Pradesh,High
+,25.70223725,94.04619681,india,Nagaland,Low
+,30.04014521,80.31354955,india,Uttaranchal,Medium
+,30.7221,78.64369999999998,india,Uttaranchal,High
+,24.95178179,94.20340026,india,Manipur,Low
+,25.53663703,91.98082795,india,Meghalaya,Medium
+,27.172,88.5292,india,West Bengal,Low
+,26.2208,73.6106,india,Rajasthan,Medium
+,27.03596051,88.26257359,india,West Bengal,Low
+,25.6633,94.4703,india,Nagaland,Low
+,10.08673984,77.06304482999998,india,Kerala,High
+,34.0978,74.4016,india,Jammu and Kashmir,Low
+,9.88032214,77.00665997,india,Kerala,Medium
+,33.3308,75.1773,india,Jammu and Kashmir,Medium
+,11.405,76.0376,india,Kerala,High
+,30.9085,78.32989999999998,india,Uttaranchal,Medium
+,19.1209,72.84059999999998,india,Maharashtra,Medium
+,30.6594,79.5605,india,Uttaranchal,Medium
+,25.8143,90.5763,india,Meghalaya,Low
+,27.478,88.527,india,Sikkim,Low
+,33.13296295,75.43929097,india,Jammu and Kashmir,Medium
+,9.61891211,77.14082618,india,Kerala,High
+,30.9209,77.0206,india,Himachal Pradesh,Low
+,34.2092,74.321,india,Jammu and Kashmir,High
+,19.029,73.311,india,Maharashtra,Medium
+,19.0997,72.8974,india,Maharashtra,Medium
+,32.7571,77.41379999999998,india,Himachal Pradesh,Low
+,15.2932,74.1447,india,Goa,Medium
+,27.3425,88.24259999999998,india,Sikkim,Low
+,30.3642,79.31579999999998,india,Uttaranchal,Medium
+,26.89,88.47,india,West Bengal,Medium
+,27.04,88.26399999999998,india,West Bengal,Low
+,32.361087219999995,77.30377644,india,Himachal Pradesh,Low
+,25.4786,94.1327,india,Manipur,Low
+,31.40953517,76.43305805000001,india,Himachal Pradesh,Medium
+,31.70552778,76.93438888999998,india,Himachal Pradesh,Medium
+,26.74452462,88.40011959,india,West Bengal,High
+,32.006534390000006,78.56989163,india,Himachal Pradesh,Low
+,30.6838,79.0479,india,Uttaranchal,Medium
+,17.586100000000002,73.1742,india,Maharashtra,Medium
+,30.135,78.3896,india,Uttaranchal,Low
+,33.1213,75.2449,india,Jammu and Kashmir,High
+,33.0068,74.94549999999998,india,Jammu and Kashmir,Low
+,32.0996,77.1586,india,Himachal Pradesh,High
+,32.7334,77.59139999999998,india,Himachal Pradesh,Medium
+,25.5728,91.885,india,Meghalaya,High
+,32.6188,75.35039999999998,india,Jammu and Kashmir,Medium
+,33.1463,75.7454,india,Jammu and Kashmir,Low
+,10.3031,76.7604,india,Kerala,Low
+,27.05909317,93.54235868,india,Arunachal Pradesh,Low
+,33.370670000000004,74.31965599999998,india,Jammu and Kashmir,High
+,29.350849,79.45126399999998,india,Uttaranchal,Medium
+,27.043571470000003,88.26522125999999,india,West Bengal,Low
+,26.8670539,88.28040839,india,West Bengal,Low
+,29.5935,79.68049999999998,india,Uttaranchal,Medium
+,26.181606,91.77204200000001,india,Assam,Low
+,30.2853,78.9829,india,Uttaranchal,Medium
+,29.5885,80.2098,india,Uttaranchal,Medium
+,33.0498,74.6264,india,Jammu and Kashmir,Medium
+,32.794494590000006,74.82074177,india,Jammu and Kashmir,Medium
+,23.73478778,92.72124394,india,Mizoram,Medium
+,27.5509,88.64749999999998,india,Sikkim,High
+,30.2828,78.3041,india,Uttaranchal,Low
+,25.616,94.1167,india,Nagaland,High
+,29.3576,79.5519,india,Uttaranchal,Low
+,26.324724,94.514651,india,Nagaland,High
+,24.954,94.2156,india,Manipur,Medium
+,31.6817,77.1209,india,Himachal Pradesh,Low
+,26.10035658,91.87351723,india,Assam,Low
+,26.2083,94.5438,india,Nagaland,High
+,14.8009,74.11799999999998,india,Karnataka,High
+,11.4477,75.8289,india,Kerala,Low
+,31.581485,78.412784,india,Himachal Pradesh,High
+,23.725943,92.7178,india,Mizoram,High
+,29.5987,79.6592,india,Uttaranchal,High
+,11.339839,76.84110599999998,india,Tamil Nadu,Medium
+,26.1833,91.8,india,Assam,Medium
+,25.73318099,93.99655231,india,Nagaland,High
+,24.981195000000003,94.018619,india,Manipur,High
+,25.5772,91.8666,india,Meghalaya,Medium
+,11.58288514,75.96672472,india,Kerala,Medium
+,34.07756418,74.58081937,india,Jammu and Kashmir,Low
+,19.2046,84.19169999999998,india,Orissa,Low
+,10.05680488,76.76673339,india,Kerala,Medium
+,32.5655,76.12009999999998,india,Himachal Pradesh,High
+,31.0226,77.1029,india,Himachal Pradesh,High
+,24.0135808,92.67420963,india,Mizoram,High
+,10.0369585,77.13048107,india,Kerala,High
+,9.6326,76.9792,india,Kerala,Low
+,11.62513002,76.12122789,india,Kerala,Medium
+,11.3742,77.899,india,Tamil Nadu,High
+,33.153219,75.678275,india,Jammu and Kashmir,Low
+,20.0014,73.7917,india,Maharashtra,High
+,32.2108,76.28329999999998,india,Himachal Pradesh,Medium
+,33.0097,74.9402,india,Jammu and Kashmir,Low
+,30.33597362,79.31958144,india,Uttaranchal,Medium
+,12.00218517,75.77401073,india,Kerala,Medium
+,31.6916,76.5102,india,Himachal Pradesh,Low
+,25.6237,94.1136,india,Nagaland,Low
+,29.9964,80.20099999999998,india,Uttaranchal,Low
+,30.7991,79.43559999999998,india,Uttaranchal,Low
+,30.6521,79.5566,india,Uttaranchal,Low
+,30.3069,78.0169,india,Uttaranchal,Low
+,30.6785,78.34749999999998,india,Uttaranchal,Low
+,9.7967,77.06109999999998,india,Kerala,High
+,18.7631,73.34699999999998,india,Maharashtra,Medium
+,25.195355,93.172758,india,Assam,Low
+,30.35948514,78.37742808999998,india,Uttaranchal,High
+,25.6269,94.1139,india,Nagaland,High
+,31.91422878,76.8929866,india,Himachal Pradesh,High
+,29.5866,80.2154,india,Uttaranchal,Medium
+,33.2466,75.1611,india,Jammu and Kashmir,Low
+,25.118398000000003,92.853913,india,Assam,High
+,12.82302425,75.62223576000001,india,Karnataka,Medium
+,27.0844941,93.60505989,india,Arunachal Pradesh,Medium
+,24.32420539,93.15020652,india,Manipur,Medium
+,30.56,77.29999999999998,india,Himachal Pradesh,High
+,26.7215,95.0283,india,Nagaland,Low
+,30.23936058,77.9558167,india,Uttaranchal,High
+,26.1028,91.8806,india,Assam,High
+,33.3059579,75.17356727,india,Jammu and Kashmir,Low
+,33.2599,75.88859999999998,india,Jammu and Kashmir,Low
+,29.607,79.9298,india,Uttaranchal,Low
+,30.0702,78.3027,india,Uttaranchal,Medium
+,9.84283264,76.73793469999998,india,Kerala,Low
+,32.3733,77.24979999999998,india,Himachal Pradesh,High
+,28.8254,96.1509,india,Arunachal Pradesh,Low
+,17.6874,83.19929999999998,india,Andhra Pradesh,High
+,19.1287,72.8889,india,Maharashtra,Medium
+,33.3373721,75.19213091,india,Jammu and Kashmir,High
+,10.9628,77.5947,india,Tamil Nadu,High
+,19.170539,73.022276,india,Maharashtra,Low
+,26.148,94.8422,india,Nagaland,Low
+,25.682,94.1076,india,Nagaland,High
+,33.334,75.76269999999998,india,Jammu and Kashmir,Low
+,31.9843,77.1889,india,Himachal Pradesh,Medium
+,34.0876,74.02249999999998,india,Jammu and Kashmir,Medium
+,19.1993,73.0109,india,Maharashtra,Low
+,30.6738,77.3544,india,Himachal Pradesh,Medium
+,22.7176,92.8416,india,Mizoram,Low
+,10.3031161,76.87197005,india,Tamil Nadu,High
+,27.3034,93.804,india,Arunachal Pradesh,High
+,26.09748244,91.8744337,india,Assam,Medium
+,27.1695,88.3664,india,Sikkim,Low
+,16.28332586,80.26097734000001,india,Andhra Pradesh,Low
+,26.1699,91.7986,india,Assam,Medium
+,30.8987,78.3399,india,Uttaranchal,High
+,31.7093,76.92969999999998,india,Himachal Pradesh,Medium
+,30.65160517,79.52008975999999,india,Uttaranchal,High
+,26.8826,88.2788,india,West Bengal,Low
+,11.46851,75.94339999999998,india,Kerala,High
+,34.0604,74.42029999999998,india,Jammu and Kashmir,Medium
+,34.6056,76.0539,india,Jammu and Kashmir,Low
+,19.292213,73.06497899999998,india,Maharashtra,Medium
+,26.0319,94.5466,india,Nagaland,Medium
+,24.7459,93.4251,india,Manipur,High
+,26.0101,94.5282,india,Nagaland,Medium
+,25.1333,93.9667,india,Manipur,High
+,27.8837,93.0515,india,Arunachal Pradesh,Low
+,33.33280503,75.21320384,india,Jammu and Kashmir,High
+,34.4332,76.2851,india,Jammu and Kashmir,Low
+,31.563,77.9796,india,Himachal Pradesh,High
+,30.8183,78.6186,india,Uttaranchal,Medium
+,19.17066427,73.02142666999998,india,Maharashtra,High
+,15.3904,73.8182,india,Goa,High
+,33.2424,75.2381,india,Jammu and Kashmir,Low
+,25.6269,94.1139,india,Nagaland,Medium
+,26.96437841,92.78260587,india,Assam,High
+,30.7333,78.44029999999998,india,Uttaranchal,Medium
+,26.1407,91.7645,india,Assam,High
+,33.8778,74.33329999999998,india,Jammu and Kashmir,High
+,17.0032,73.3572,india,Maharashtra,Medium
+,25.72019272,94.03225673,india,Nagaland,High
+,34.08230448,74.03099027999998,india,Jammu and Kashmir,Medium
+,25.6703,94.1095,india,Nagaland,High
+,25.1175,92.8573,india,Assam,Low
+,12.89375619,74.85580684,india,Karnataka,Medium
+,26.8833,88.28329999999998,india,West Bengal,High
+,26.969040550000003,88.57106645999998,india,West Bengal,High
+,11.36670899,76.22109652999998,india,Kerala,Low
+,32.2473,78.037,india,Himachal Pradesh,Medium
+,33.44264758,75.1915163,india,Jammu and Kashmir,High
+,24.9849,92.8411,india,Assam,Low
+,30.6145,79.81019999999998,india,Uttaranchal,High
+,34.209,74.3524,india,Jammu and Kashmir,Medium
+,23.9304,88.23739999999998,india,West Bengal,High
+,33.29950376,75.18115668,india,Jammu and Kashmir,High
+,10.2379,77.63769999999998,india,Tamil Nadu,High
+,32.3712,77.2466,india,Himachal Pradesh,High
+,19.17377751,72.88274366999998,india,Maharashtra,Low
+,27.61790706,93.84196894,india,Arunachal Pradesh,Low
+,33.9513,74.98449999999998,india,Jammu and Kashmir,Medium
+,28.3092,95.4149,india,Arunachal Pradesh,Low
+,26.1807,94.5497,india,Nagaland,Low
+,8.2117,77.312,india,Tamil Nadu,Medium
+,13.664854,79.35744199999998,india,Andhra Pradesh,Low
+,19.1869,73.01999999999998,india,Maharashtra,Low
+,30.4528,78.1045,india,Uttaranchal,Medium
+,30.7864,78.616,india,Uttaranchal,Medium
+,33.1206,75.3142,india,Jammu and Kashmir,Medium
+,12.9711,76.2728,india,Karnataka,High
+,26.1468,91.6469,india,Assam,High
+,27.82743132,93.62407259,india,Arunachal Pradesh,Medium
+,9.8539,76.94679999999998,india,Kerala,Medium
+,11.83926355,75.91755805000001,india,Kerala,Medium
+,25.67,94.1066,india,Nagaland,High
+,30.9086,77.11029999999998,india,Himachal Pradesh,High
+,25.2193,90.5549,india,Meghalaya,Low
+,30.8203,78.61849999999998,india,Uttaranchal,Low
+,25.7428,93.9136,india,Nagaland,Medium
+,10.52371038,76.2145574,india,Kerala,High
+,10.007,76.71049999999998,india,Kerala,High
+,16.515960959999997,80.65421245,india,Andhra Pradesh,High
+,30.8928,78.48,india,Uttaranchal,Medium
+,27.4459,88.61929999999998,india,Sikkim,Low
+,26.138,94.25,india,Nagaland,Medium
+,34.2952,75.32259999999998,india,Jammu and Kashmir,Low
+,19.1497,83.6299,india,Andhra Pradesh,Low
+,31.0826,78.066,india,Uttaranchal,Medium
+,11.19838929,75.89666866,india,Kerala,Low
+,32.3237,77.1935,india,Himachal Pradesh,Low
+,33.2257,75.6695,india,Jammu and Kashmir,High
+,34.6609,73.9593,india,Jammu and Kashmir,Low
+,33.07376025,75.60805647,india,Jammu and Kashmir,Medium
+,19.6699,73.5111,india,Maharashtra,Medium
+,31.1628,77.7241,india,Himachal Pradesh,Low
+,31.410667,77.602553,india,Himachal Pradesh,High
+,33.1261,75.44809999999998,india,Jammu and Kashmir,High
+,10.01471,76.94682999999998,india,Kerala,Low
+,10.2288,77.47669999999998,india,Tamil Nadu,Low
+,9.8721,76.7046,india,Kerala,Medium
+,26.1963,91.8074,india,Assam,Low
+,25.2568,92.3825,india,Meghalaya,High
+,8.4557,77.009,india,Kerala,Low
+,24.1965,73.703,india,Rajasthan,Medium
+,30.4954,78.38809999999998,india,Uttaranchal,Medium
+,11.51185539,76.01854791000001,india,Kerala,Medium
+,12.896,74.8735,india,Karnataka,Medium
+,19.663933,82.210221,india,Orissa,Medium
+,12.71859173,75.46956276999998,india,Karnataka,Low
+,33.1457,75.7964,india,Jammu and Kashmir,Low
+,27.44,92.2833,india,Arunachal Pradesh,Low
+,11.50340214,76.13474585,india,Kerala,Low
+,33.35406635,75.17240669,india,Jammu and Kashmir,Medium
+,12.62707413,75.93057114999998,india,Karnataka,High
+,32.23843313,78.06239076,india,Himachal Pradesh,Low
+,30.94222039,76.80054201999998,india,Himachal Pradesh,High
+,30.2258,78.3755,india,Uttaranchal,Low
+,34.0404,75.3156,india,Jammu and Kashmir,Low
+,34.0901,74.02559999999998,india,Jammu and Kashmir,High
+,25.03561729,94.0144205,india,Manipur,Medium
+,30.638,78.3297,india,Uttaranchal,Low
+,34.0893,74.0241,india,Jammu and Kashmir,Low
+,30.306,78.0648,india,Uttaranchal,Low
+,24.7679,93.4108,india,Manipur,High
+,26.89487026,88.35197239999998,india,West Bengal,Medium
+,31.6891217,77.27867698999998,india,Himachal Pradesh,High
+,12.21522844,75.84626677999998,india,Karnataka,High
+,34.1802,74.2718,india,Jammu and Kashmir,Medium
+,26.149,91.7351,india,Assam,High
+,29.8002,80.2565,india,Uttaranchal,Medium
+,27.3746,88.76479999999998,india,Sikkim,Low
+,32.55707007,76.12318338999998,india,Himachal Pradesh,Medium
+,21.786,83.88469999999998,india,Orissa,Low
+,33.2395,75.2406,india,Jammu and Kashmir,High
+,26.0214,94.5224,india,Nagaland,High
+,33.1617,75.32779999999998,india,Jammu and Kashmir,Low
+,30.5151,78.36839999999998,india,Uttaranchal,High
+,9.8678,76.7705,india,Kerala,Medium
+,19.0176,72.8562,india,Maharashtra,Low
+,20.855,77.7274,india,Maharashtra,High
+,23.69461107,92.87641207,india,Mizoram,Low
+,33.40832011,75.20596208,india,Jammu and Kashmir,Medium
+,30.6539,78.3366,india,Uttaranchal,Medium
+,30.733,78.43899999999998,india,Uttaranchal,High
+,30.4619,79.07649999999998,india,Uttaranchal,Medium
+,30.012,78.197,india,Uttaranchal,Low
+,11.86719598,75.6300566,india,Kerala,Medium
+,26.8545,88.33719999999998,india,West Bengal,Low
+,24.4279,94.0564,india,Manipur,Low
+,33.3018,75.1793,india,Jammu and Kashmir,Medium
+,26.91576299,88.46218716000001,india,West Bengal,High
+,32.99132714,75.19803944,india,Jammu and Kashmir,Medium
+,30.4305,78.08029999999998,india,Uttaranchal,Low
+,9.75118564,77.08971657999999,india,Kerala,Low
+,27.0605,88.25499999999998,india,West Bengal,Medium
+,30.4043,79.3318,india,Uttaranchal,High
+,30.8741,76.9576,india,Himachal Pradesh,High
+,30.819,78.6149,india,Uttaranchal,Low
+,34.5628,77.6001,india,Jammu and Kashmir,Low
+,30.4091,79.0579,india,Uttaranchal,High
+,12.7796,75.5844,india,Karnataka,Medium
+,27.01454392,88.43616783999998,india,West Bengal,Low
+,24.8286,93.5935,india,Manipur,Low
+,25.83,94.13,india,Nagaland,High
+,29.9531,78.15139999999998,india,Uttaranchal,Medium
+,33.33480589,75.19625509,india,Jammu and Kashmir,High
+,23.7527,92.694,india,Mizoram,Medium
+,25.3612,92.2845,india,Meghalaya,Medium
+,15.67935597,78.3501421,india,Andhra Pradesh,Medium
+,19.2179,73.16939999999998,india,Maharashtra,Low
+,30.904,77.0969,india,Himachal Pradesh,High
+,33.4372,75.20269999999998,india,Jammu and Kashmir,High
+,34.06830898,74.63364102,india,Jammu and Kashmir,Medium
+,18.7654,73.364,india,Maharashtra,Low
+,30.917143990000003,78.68361831,india,Uttaranchal,Low
+,26.13179516,94.78584429,india,Nagaland,High
+,33.6549,74.63259999999998,india,Jammu and Kashmir,Low
+,27.54295099,88.59676956,india,Sikkim,Low
+,7.044361139999999,93.79758632,india,Andaman and Nicobar Islands,Medium
+,27.7344,88.63299999999998,india,Sikkim,Low
+,10.3316,76.95919999999998,india,Tamil Nadu,Medium
+,34.38663064,76.34158850999998,india,Jammu and Kashmir,High
+,30.557,79.56,india,Uttaranchal,Low
+,26.1295,91.7056,india,Assam,High
+,12.6445,75.605,india,Karnataka,High
+,26.9653186,88.2667225,india,West Bengal,Low
+,34.1587,74.47249999999998,india,Jammu and Kashmir,Low
+,24.1293,92.6921,india,Mizoram,High
+,12.43205911,75.73750346999998,india,Karnataka,Low
+,34.1481,77.6538,india,Jammu and Kashmir,Medium
+,26.1226,91.7162,india,Assam,Medium
+,26.87653701,88.27487677,india,West Bengal,Low
+,24.6997,85.6285,india,Bihar,High
+,33.029976999999995,74.948082,india,Jammu and Kashmir,Low
+,33.32823333,75.2041911,india,Jammu and Kashmir,Low
+,14.8937,74.5828,india,Karnataka,High
+,34.1491,76.82599999999998,india,Jammu and Kashmir,High
+,34.63639,74.77415081000001,india,Jammu and Kashmir,Medium
+,27.0736,88.4779,india,West Bengal,High
+,27.3313961,88.6138098,india,Sikkim,Medium
+,12.83154628,75.58689194999998,india,Karnataka,High
+,33.0,74.9277,india,Jammu and Kashmir,Low
+,30.24147729,78.89773782,india,Uttaranchal,Medium
+,26.7324,88.4089,india,West Bengal,Medium
+,31.12029184,77.35887837,india,Himachal Pradesh,Medium
+,11.37397222,76.82925,india,Tamil Nadu,Low
+,26.7914,88.363,india,West Bengal,Low
+,33.2477,75.1919,india,Jammu and Kashmir,Low
+,33.5405,74.37229999999998,india,Jammu and Kashmir,Low
+,10.2462,77.58199999999998,india,Tamil Nadu,Low
+,26.20450454,91.87202793,india,Assam,Medium
+,27.07671517,93.59755441,india,Arunachal Pradesh,Low
+,34.1327,74.55939999999998,india,Jammu and Kashmir,Medium
+,11.338,76.8806,india,Tamil Nadu,Low
+,30.1977,77.9137,india,Uttar Pradesh,High
+,34.6507,74.73619999999998,india,Jammu and Kashmir,Medium
+,26.1548,91.7351,india,Assam,High
+,34.27950832,77.59998914,india,Jammu and Kashmir,Medium
+,27.0377,88.36029999999998,india,West Bengal,High
+,23.7131,92.7362,india,Mizoram,Low
+,30.3629,79.21429999999998,india,Uttaranchal,Low
+,31.0,77.12,india,Himachal Pradesh,Low
+,26.0481,94.4619,india,Nagaland,Medium
+,27.7,92.8,india,Arunachal Pradesh,High
+,25.2946,92.8339,india,Assam,Low
+,24.7625,93.4341,india,Manipur,High
+,25.38,91.88,india,Meghalaya,High
+,26.9310409,88.29964796999998,india,West Bengal,Low

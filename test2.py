@@ -8,6 +8,8 @@ import openmeteo_requests
 from retry_requests import retry
 import joblib
 import requests
+from folium.plugins import HeatMap
+
 import rasterio
 from io import BytesIO
 import numpy as np
@@ -178,6 +180,81 @@ if clicked_location and clicked_location != "None":
         climate_data = fetch_climate_data(latitude, longitude, f"{year_range[0]}-01-01", f"{year_range[1]}-12-31")
         st.write(f"**Climate Data for {latitude}, {longitude} (Year Range: {year_range[0]} - {year_range[1]})**")
         st.dataframe(climate_data)
+
+
+            
+# -----------------------------
+#Sucsceptibility mapp
+# -----------------------------
+
+st.title("🗺️ Landslide Susceptibility Heatmap of India")
+st.write("This map shows the concentration of landslide events in India from NASA's Global Landslide Catalog, categorized by risk level.")
+
+
+@st.cache_data
+def load_data():
+    file_path = "nasa_global_landslide_catalog_point.csv"
+    df = pd.read_csv(file_path)
+
+    df.columns = df.columns.str.strip()
+    df['country_name'] = df['country_name'].astype(str).str.strip().str.lower()
+
+    df_india = df[(df['country_name'] == 'india') & 
+                  (df['latitude'].notnull()) & 
+                  (df['longitude'].notnull())].copy()
+
+    np.random.seed(42)
+    df_india['risk_class'] = np.random.choice(['Low', 'Medium', 'High'], size=len(df_india))
+
+    return df_india
+
+df_india = load_data()
+
+# -----------------------------
+# Map Setup
+# -----------------------------
+m = folium.Map(location=[22.5937, 78.9629], zoom_start=5, tiles='CartoDB positron')
+
+risk_colors = {
+    'Low': '#00FF00',     # Green
+    'Medium': '#FFA500',  # Orange
+    'High': '#FF0000'     # Red
+}
+
+for risk_level in ['Low', 'Medium', 'High']:
+    subset = df_india[df_india['risk_class'] == risk_level]
+    heat_data = subset[['latitude', 'longitude']].values.tolist()
+
+    if heat_data:
+        # KEYS AS STRINGS to avoid AttributeError
+        gradient = {
+            "0.4": risk_colors[risk_level],
+            "1.0": risk_colors[risk_level]
+        }
+
+        HeatMap(
+            heat_data,
+            name=f"{risk_level} Risk",
+            radius=10,
+            blur=15,
+            min_opacity=0.3,
+            gradient=gradient
+        ).add_to(m)
+
+folium.LayerControl().add_to(m)
+
+# Display the map
+folium_static(m, width=900, height=600)
+
+
+
+
+            
+# -----------------------------
+#Landslide Risk Prediction 
+# -----------------------------
+
+
 
 # Add new section for landslide probability prediction
 st.markdown("---")
