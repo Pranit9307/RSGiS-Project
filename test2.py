@@ -3,6 +3,8 @@ import pandas as pd
 import folium
 from folium.plugins import MarkerCluster
 from streamlit_folium import folium_static
+from streamlit_folium import st_folium
+
 import requests_cache
 import openmeteo_requests
 from retry_requests import retry
